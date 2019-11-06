@@ -6,6 +6,7 @@
 
 
 // Our variables
+$header-font-family: 
 $base-font-family: 'Roboto', sans-serif;;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
@@ -524,7 +525,7 @@ a {
 
 
 pre {
-        font-family: "Courier 10 Pitch", Courier, monospace;
+        font-family: $base-font-family;
         font-size: 95%;
         line-height: 140%;
         white-space: pre;
@@ -534,7 +535,7 @@ pre {
     }
 
     code {
-        font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+        font-family: $base-font-family;
         font-size: 95%;
         line-height: 140%;
         white-space: pre;
