@@ -103,7 +103,7 @@ body {
 }
 
 .nav > li > a {
-	font-family: "Open Sans", sans-serif;
+	font-family: $base-font-family;
 	font-size: 14px;
 	font-weight: 800;
 	color: $match-color;
@@ -550,3 +550,4 @@ pre {
         padding: 0.5em 1em;
         border: 1px solid #bebab0;
     }
+    
