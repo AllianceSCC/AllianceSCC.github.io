@@ -4,7 +4,7 @@ email: akhagan@alliancescc.com
 description: > # this means to ignore newlines until "baseurl:"
    The website for Alliance SciComm & Consulting
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://alliancescicommconsulting.github.io" # the base hostname & protocol for your site
+url: "http://alliancescc.github.io" # the base hostname & protocol for your site
 twitter_username: Alliance_SCC
 github_username:  AllianceSCC
 array: []
