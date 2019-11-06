@@ -1,6 +1,6 @@
 # Site settings
 title: Alliance SciComm & Consulting
-email: akhagan@alliancescc.com
+email: admin@alliancescc.com
 description: > # this means to ignore newlines until "baseurl:"
    The website for Alliance SciComm & Consulting
 baseurl: "" # the subpath of your site, e.g. /blog/
