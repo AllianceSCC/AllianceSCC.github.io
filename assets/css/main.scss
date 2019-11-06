@@ -13,9 +13,9 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$match-color:		rgb(27, 70, 111);
-$comp-color:		rgb(97, 137, 183);
-$link-color:		rgb(191, 153, 0);
+$match-color:		rgb(212, 170, 0);
+$comp-color:		rgb(0, 0, 0);
+$link-color:		rgb(212, 170, 0);
 
 
 $text-color:		#000;
@@ -186,7 +186,6 @@ body {
 .intro {
 	background: url(/assets/img/workshop.jpg) center center no-repeat;
 	background-size: cover;
-	color: #fff;
 	padding: 50px 0 250px 0;
 
 	.container-fluid {
