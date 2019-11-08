@@ -12,5 +12,5 @@ title: Services for Institutions
 	
 	
 ### Consulting:	
-* SEA CHANGE
-* Demographic collection & report (current to X historical)
+* AAAS SEA CHANGE applications
+* Demographic collection & report (current or historical)
