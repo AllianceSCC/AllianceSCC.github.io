@@ -12,5 +12,5 @@ If you are, or identify as, a woman and belong to one of these groups, and need 
 [Open Eligibility Form in new tab](https://docs.google.com/forms/d/e/1FAIpQLSeUoS1gvwR--5BmdjWkmQLFac4THX21KXTJLZ26RosvhGRQ2Q/viewform?usp=sf_link)
 
 <figure>
-<iframe src=https://docs.google.com/forms/d/e/1FAIpQLSeUoS1gvwR--5BmdjWkmQLFac4THX21KXTJLZ26RosvhGRQ2Q/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src=https://docs.google.com/forms/d/e/1FAIpQLSeUoS1gvwR--5BmdjWkmQLFac4THX21KXTJLZ26RosvhGRQ2Q/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 </figure>
