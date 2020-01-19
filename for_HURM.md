@@ -1,13 +1,16 @@
 ---
 layout: index_page
 category: for_HURM
-title: Services for HURM Trainees
+title: Pro Bono Services for HURM Trainees
 ---
 
 To _make science accessible_, Alliance SciComm & Consulting dedicates 10% of our work week to helping women-identifying HURM<sup>1</sup> trainees succeed. **For free.**
 
 
-If you are, or identify as, a woman and belong to one of these groups, and need help with technical writing, grant proposals, or fellowship applications, let us know. You can [schedule](https://calendly.com/alliance_scc/free-consult) a free 15 min consultation to see how we can help. 
+If you are, or identify as, a woman and belong to one of these groups, and need help with technical writing, grant proposals, or fellowship applications, use the form below to check your eligiblity and get your free consultation!
 
+[Open Eligibility Form in new tab](https://docs.google.com/forms/d/e/1FAIpQLSeUoS1gvwR--5BmdjWkmQLFac4THX21KXTJLZ26RosvhGRQ2Q/viewform?usp=sf_link)
 
-<sup>1.</sup>_We define U.S. HURM as individuals belonging to cultures that are either indigenous to North America (e.g. Hispanics or Latinos, American Indians, or Alaska Natives) or who were brought to North American for forced labor (e.g., Black or African-American)._
+<figure>
+<iframe src=https://docs.google.com/forms/d/e/1FAIpQLSeUoS1gvwR--5BmdjWkmQLFac4THX21KXTJLZ26RosvhGRQ2Q/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</figure>
