@@ -1,7 +1,7 @@
 ---
 layout: index_page
 category: for_HURM
-title: Pro Bono Services for HURM Trainees
+title: Pro Bono Services for Marginalized Trainees
 ---
 
 To _make science accessible_, Alliance SciComm & Consulting dedicates 10% of our work week to help members of marginalized trainees succeed. **For free.**
