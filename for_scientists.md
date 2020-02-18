@@ -4,28 +4,45 @@ category: for_scientists
 title: Services for Scientists
 ---
 
+## [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
+
+## Support for: graduate program applications, job application packets, manuscripts, dissertations, & more
+
 ### Editing:		
-* Copyediting	
-* Structure/Content	
-		
-		
-### Content Creation:		
-* Lit Review/Research	
-* White paper summary (~2k words)	
-* Presentations/Posters	
-* Manuscript Drafting	
-		
+
+* Structure/Content --- Early in the writing/brainstorming process and need help with deciding what should be included, the organization of an early draft, or can't _quite_ put your finger on what's missing? Structure and content editing comes in at the beginning of your writing process. We can help you brainstorm or outline that early draft before it exists and then edit your writing to identify missing information or help with the overall organization. **Use content and structure editing to ensure concise writing with all the information your readers need, and nothing they don't.**
+
+* Copyediting	--- In the late stages of writing and need fresh eyes to check for grammar and typos? Copyediting gets you a fresh pair of eyes to make sure that each paragraph looks, and reads, its best. **Use copyediting to drop your wordcount and catch those mistakes that will distract the reader from your writing.**
+
+* Formatting --- Got a finished product that reads just how you want but doesn't look how they want it to? Use our formatting services to put your words in their specified format
+
+## [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
+
+## Support for: Presentations
+
+### Feedback:
+* Slides --- Let us look through your slides and provde feedback on typos, organization, design, and content.
+
+* Posters --- We can take a look at your conference posters for typos and/or provide feedback on layout, content, and formatting.
+
+* Talks --- Need a practice audience prepared to give meaningful feedback on your upcoming presentation or job talk? We will watch your presentation and provide feedback on everything from substance to style.
+
+## [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
+
+## Support for: Grants		
+
+### Editing: 
+* Structure/Content ---  Use content and structure editing to ensure concise writing with all the information your readers need, and nothing they don't.
+
+* Copyediting --- Use copyediting to drop your wordcount and catch those mistakes that will distract the reader from your writing.
+
 		
 ### Consulting:		
-* Outreach	
-* Story Circles	
-* Inclusive Research Design
-* Inclusive Lab Culture
+* Research	summary (~2k words)	--- Interested in expanding your research into a new direction but need a handle on the literature? Use our research summary services to dig through the literature and write a brief (~2,000 word) summary of the field. [Not for used in published manuscripts without prior agreements]
 
+* Outreach	--- Many grants now require sections detailing how you plan to engage the broader community with your research. Use our consulting services to come up with a plan that works for you.
 
-### Coaching:
-* Accountability Groups
-* One-on-One Goal Setting
+* Inclusive Research Design & Analysis --- Let us help ensure that your research can draw robust conclusionts about the broadest population(s) possible.
 
 
 ## [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
