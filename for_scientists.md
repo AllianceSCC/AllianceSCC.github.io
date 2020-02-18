@@ -4,11 +4,10 @@ category: for_scientists
 title: Services for Scientists
 ---
 
-## [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
 
-## Support for: graduate program applications, job application packets, manuscripts, dissertations, & more
+### Support for: graduate program applications, job application packets, manuscripts, dissertations, & more
 
-### Editing:		
+#### Editing:		
 
 * Structure/Content --- Early in the writing/brainstorming process and need help with deciding what should be included, the organization of an early draft, or can't _quite_ put your finger on what's missing? Structure and content editing comes in at the beginning of your writing process. We can help you brainstorm or outline that early draft before it exists and then edit your writing to identify missing information or help with the overall organization. **Use content and structure editing to ensure concise writing with all the information your readers need, and nothing they don't.**
 
@@ -18,9 +17,9 @@ title: Services for Scientists
 
 ## [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
 
-## Support for: Presentations
+### Support for: Presentations
 
-### Feedback:
+#### Feedback:
 * Slides --- Let us look through your slides and provde feedback on typos, organization, design, and content.
 
 * Posters --- We can take a look at your conference posters for typos and/or provide feedback on layout, content, and formatting.
@@ -29,15 +28,15 @@ title: Services for Scientists
 
 ## [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
 
-## Support for: Grants		
+### Support for: Grants		
 
-### Editing: 
+#### Editing: 
 * Structure/Content ---  Use content and structure editing to ensure concise writing with all the information your readers need, and nothing they don't.
 
 * Copyediting --- Use copyediting to drop your wordcount and catch those mistakes that will distract the reader from your writing.
 
 		
-### Consulting:		
+#### Consulting:		
 * Research	summary (~2k words)	--- Interested in expanding your research into a new direction but need a handle on the literature? Use our research summary services to dig through the literature and write a brief (~2,000 word) summary of the field. [Not for used in published manuscripts without prior agreements]
 
 * Outreach	--- Many grants now require sections detailing how you plan to engage the broader community with your research. Use our consulting services to come up with a plan that works for you.
