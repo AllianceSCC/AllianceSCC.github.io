@@ -37,7 +37,7 @@ title: Services for Scientists
 
 		
 #### Consulting:		
-* Research	summary (~2k words)	--- Interested in expanding your research into a new direction but need a handle on the literature? Use our research summary services to dig through the literature and write a brief (~2,000 word) summary of the field. [Not for used in published manuscripts without prior agreements]
+* Research	summary (~2k words)	--- Interested in expanding your research into a new direction but need a handle on the literature? Use our research summary services to dig through the literature and write a brief (~2,000 word) summary of the field. [Not for use in published manuscripts without prior agreements]
 
 * Outreach	--- Many grants now require sections detailing how you plan to engage the broader community with your research. Use our consulting services to come up with a plan that works for you.
 
