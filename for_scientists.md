@@ -15,6 +15,10 @@ title: Services for Scientists
 
 * Formatting --- Got a finished product that reads just how you want but doesn't look how they want it to? Use our formatting services to put your words in their specified format
 
+#### Data analysis & visualization:
+
+* Reproducible data analyisis --- Need help analyizing that data and/or making the right graphics? Let us help by creating an easy to use and repeatable method of cleaning and visualizing your data.
+
 ## [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
 
 ### Support for: Presentations
@@ -43,6 +47,7 @@ title: Services for Scientists
 
 * Inclusive Research Design & Analysis --- Let us help ensure that your research can draw robust conclusions about the broadest population(s) possible.
 
+* Reproducible Research --- Let us help you convert your data analyisis and manuscript writing process into straight-forward, collaborative workflows to improve repeatable data cleaning, analysis and visualization that can be easily shared and documented.
 
 ## [Schedule your FREE 15 min Consultation](https://calendly.com/alliance_scc/free-consult)
 
