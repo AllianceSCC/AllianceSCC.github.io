@@ -7,12 +7,8 @@ title: Services for Scientists
 
 ### Support for: Writing 
 
-**Including:** 
-* **graduate program applications,** 
-* **job application packets,**
-* **manuscripts,**
-* **dissertations,** 
-* **& more**
+
+**(Including: graduate program applications, job application packets, manuscripts, dissertations, & more)**
 
 #### Editing:		
 
