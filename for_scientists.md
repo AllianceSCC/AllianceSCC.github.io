@@ -5,7 +5,14 @@ title: Services for Scientists
 ---
 
 
-### Support for: graduate program applications, job application packets, manuscripts, dissertations, & more
+### Support for: Writing 
+
+**Including:** 
+* **graduate program applications,** 
+* **job application packets,**
+* **manuscripts,**
+* **dissertations,** 
+* **& more**
 
 #### Editing:		
 
