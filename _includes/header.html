@@ -1,0 +1,15 @@
+
+<div class="header">
+	<div class="container-fluid">
+		<div class="pull-right">
+			<ul class="nav nav-pills">
+				{% if page.category != "home" %}
+				<li role="presentation" ><a href="{{site.baseurl}}/">Home</a></li>
+				{% endif %}
+				<li role="presentation" {% if page.category == "about" %}class="active"{% endif %}><a href="{{  site.baseurl  }}/about">About Us</a></li>
+				<li role="presentation" {% if page.category == "for_scientists" %}class="active"{% endif %}><a href="{{ site.baseurl }}/for_scientists">Services for Scientists</a></li>
+				<li role="presentation" {% if page.category == "for_institutions" %}class="active"{% endif %}><a href="{{ site.baseurl }}/for_institutions">Services for Institutions</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
