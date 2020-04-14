@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Alliance SciComm &amp; Consulting</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2020</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Alliance SciComm &amp;amp; Consulting&amp;rsquo;s &lt;strong&gt;vision&lt;/strong&gt; is to &lt;em&gt;Make Science Accessible&lt;/em&gt;. Both as a concept and a career. We will achieve that through our &lt;strong&gt;mission&lt;/strong&gt; of providing consulting services that make academic communication and environments more accessible to all audiences. We provide writing and editing services, training, and reports to identify and address institutional barriers to science.&lt;/p&gt;
+&lt;p&gt;Alliance SciComm &amp;amp; Consulting was founded in 2019 by Dr. Ada Hagan, a microbiologist with a passion for making science accessible. Dr. Hagan seeks to use her strong background in communications and higher education to help make sciencific concepts more easily understood and make the academy more inclusive to future scientists from all backgrounds. Her writing and research has been featured by 
+&lt;a href=&#34;https://www.sciencemag.org/careers/2019/11/departmental-seminar-speakers-should-better-reflect-trainee-diversity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Careers&lt;/a&gt;, 
+&lt;a href=&#34;https://www.the-scientist.com/news-opinion/qa--myth-debunkers-take-aim-at-microbiology-lore-66036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Scientist&lt;/a&gt;, 
+&lt;a href=&#34;https://massivesci.com/articles/cephalopods-are-forcing-us-to-rethink-what-it-means-to-be-colorblind/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Massive Science&lt;/a&gt;, and the 
+&lt;a href=&#34;https://www.asm.org/Biographies/Ada-Hagan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;American Society for Microbiology&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
