@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alliance SciComm &amp; Consulting</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alliancescc.github.io/</link>
+      <atom:link href="https://alliancescc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alliance SciComm &amp; Consulting</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2020</copyright><lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alliance SciComm &amp; Consulting</title>
-      <link>/</link>
+      <link>https://alliancescc.github.io/</link>
     </image>
     
     <item>
       <title>Pro Bono Services</title>
-      <link>/for_hurm/</link>
+      <link>https://alliancescc.github.io/for_hurm/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
-      <guid>/for_hurm/</guid>
+      <guid>https://alliancescc.github.io/for_hurm/</guid>
       <description>&lt;p&gt;To &lt;em&gt;make science accessible&lt;/em&gt;, Alliance SciComm &amp;amp; Consulting dedicates 10% of our work week to help members of marginalized trainees succeed. &lt;strong&gt;For free.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;If you are, or identify as, a woman, think you may belong to one of these groups, and need help with technical writing, grant proposals, or fellowship applications, use the form below to check your eligiblity and get your free consultation!&lt;/p&gt;
 &lt;p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Services for Institutions</title>
-      <link>/for_institutions/</link>
+      <link>https://alliancescc.github.io/for_institutions/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
-      <guid>/for_institutions/</guid>
+      <guid>https://alliancescc.github.io/for_institutions/</guid>
       <description>&lt;h2 id=&#34;workshops--webinars&#34;&gt;Workshops &amp;amp; Webinars:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>Services for Scientists</title>
-      <link>/for_scientists/</link>
+      <link>https://alliancescc.github.io/for_scientists/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0100</pubDate>
-      <guid>/for_scientists/</guid>
+      <guid>https://alliancescc.github.io/for_scientists/</guid>
       <description>&lt;h2 id=&#34;support-for-writing&#34;&gt;Support for: Writing&lt;/h2&gt;
 &lt;p&gt;(Including: graduate program applications, job application packets, manuscripts, dissertations, &amp;amp; more)&lt;/p&gt;
 &lt;h3 id=&#34;editing&#34;&gt;Editing:&lt;/h3&gt;
@@ -139,25 +139,7 @@
 &lt;a href=&#34;https://calendly.com/alliance_scc/free-consult&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Schedule your FREE 15 min Consultation&lt;/a&gt;&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;Are you a womxn trainee &amp;amp; member of a marginalized group? See our 
-&lt;a href=&#34;/for_hurm/&#34;&gt;services dedicated to you&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+&lt;a href=&#34;https://alliancescc.github.io/for_hurm/&#34;&gt;services dedicated to you&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
