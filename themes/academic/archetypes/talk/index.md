@@ -1,7 +1,7 @@
----
+----
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name '-' ' ' | title }}"
 event:
 event_url:
 location:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: {{ .Date }}
-date_end: {{ .Date }}
+date: "{{ .Date }}"
+date_end: "{{ .Date }}"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: {{ .Date }}
+publishDate: "{{ .Date }}"
 
 authors: []
 tags: []
@@ -65,4 +65,4 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
----
+----
