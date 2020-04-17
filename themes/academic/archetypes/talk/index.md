@@ -1,4 +1,4 @@
-----
+---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "{{ replace .Name '-' ' ' | title }}"
@@ -65,4 +65,4 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-----
+---
