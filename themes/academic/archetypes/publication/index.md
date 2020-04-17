@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name '-' ' ' | title }}"
 authors: []
-date: {{ .Date }}
+date: "{{ .Date }}"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: {{ .Date }}
+publishDate: "{{ .Date }}"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
