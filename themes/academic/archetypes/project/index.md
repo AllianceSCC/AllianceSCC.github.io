@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name '-' ' ' | title }}"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: {{ .Date }}
+date: "{{ .Date }}"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
