@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Alliance SciComm &amp; Consulting</title>
-    <link>https://alliancescc.github.io/tags/</link>
-      <atom:link href="https://alliancescc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2020</copyright>
     <image>
-      <url>https://alliancescc.github.io/img/avatar.png</url>
+      <url>/img/avatar.png</url>
       <title>Tags</title>
-      <link>https://alliancescc.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
   </channel>

@@ -3,55 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alliancescc.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-03-25T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/for_hurm/</loc>
+    <loc>/for_hurm/</loc>
     <lastmod>2020-03-25T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/for_institutions/</loc>
+    <loc>/for_institutions/</loc>
     <lastmod>2020-03-25T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/for_scientists/</loc>
+    <loc>/for_scientists/</loc>
     <lastmod>2020-03-25T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/authors/admin/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/authors/</loc>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/categories/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/post/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/publication_types/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/publication/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/talk/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/tags/</loc>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
