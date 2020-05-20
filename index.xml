@@ -5,12 +5,89 @@
     <link>https://alliancescc.github.io/</link>
       <atom:link href="https://alliancescc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alliance SciComm &amp; Consulting</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2020</copyright><lastBuildDate>Wed, 13 May 2020 09:25:36 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2020</copyright><lastBuildDate>Wed, 20 May 2020 12:09:27 -0400</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/img/avatar.png</url>
       <title>Alliance SciComm &amp; Consulting</title>
       <link>https://alliancescc.github.io/</link>
     </image>
+    
+    <item>
+      <title>Identify the Central Message and Narrative to Make Your Writing Process More Effective</title>
+      <link>https://alliancescc.github.io/post/central_message_narrative/</link>
+      <pubDate>Wed, 20 May 2020 12:09:27 -0400</pubDate>
+      <guid>https://alliancescc.github.io/post/central_message_narrative/</guid>
+      <description>&lt;p&gt;Deciding what to write about generally seems like a pretty easy task. Here’s the topic of my research. Read. Take notes. Write. But approaching the prewriting and drafting stages of the writing process that way can waste precious time and energy, so here are a couple of things you can do to focus your prewriting.&lt;/p&gt;
+&lt;p&gt;Prewriting is the first step in your journey to a manuscript or review paper. It precedes the drafting stage and is the step that will likely take the longest. During prewriting you:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Decide what you’re going to write about,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make an outline of your paper, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Research and take notes, aka “review the literature”.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;While it may seem straightforward (albeit overwhelming), the prewriting process is crucial to all following steps of the writing process. A haphazard approach to prewriting can result in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Non-essential research,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Disorganized writing full of tangents, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A longer/more difficult revision process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All of which, add up to lost time and energy.&lt;/p&gt;
+&lt;p&gt;That means you need a solid prewriting strategy, which is determined in the first (seemingly shortest) action of the writing process: deciding your topic.&lt;/p&gt;
+&lt;p&gt;Here are two tips to focus your ideas during step one of prewriting.&lt;/p&gt;
+&lt;h2 id=&#34;identify-your-central-message&#34;&gt;Identify your central message.&lt;/h2&gt;
+&lt;p&gt;The central message is one or two sentences that identify what you want your reader to know, when they are done reading your article. Since these are for planning purposes, they are often jargon heavy and don’t make it into your article intact. Instead, the central message helps guide you, the author, in identifying key information that needs to be included in your outline and literature review.&lt;/p&gt;
+&lt;p&gt;For instance, my dissertation work studied how the bacterium &lt;em&gt;Bacillus anthracis&lt;/em&gt; gathered iron using a small molecule called a siderophore. Siderophores are exported and used to scavenge insoluble iron from the environment. One of the siderophores that &lt;em&gt;B. anthracis&lt;/em&gt; uses is called petrobactin. So, when I was planning my dissertation defense the central message for my talk was:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Petrobactin is 
+&lt;a href=&#34;https://mbio.asm.org/content/9/6/e02079-18.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;required for rapid sporulation&lt;/a&gt; by &lt;em&gt;B. anthracis&lt;/em&gt; and is 
+&lt;a href=&#34;https://mbio.asm.org/content/8/5/e01238-17.short&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exported by ApeX&lt;/a&gt;, but petrobactin fragments can support &lt;em&gt;B. anthracis&lt;/em&gt; disease.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Again, this is jargon heavy and did not become an explicit sentence in my defense. However, it narrows down the information that will be included. For instance, if I’m discussing petrobactin use by &lt;em&gt;B. anthracis&lt;/em&gt;, then I don’t need to discuss other bacteria that may use petrobactin (which is important information for a review paper about petrobactin). Additionally, if I’m focusing on the role of petrobactin in sporulation, then I can keep my discussion of spore germination to a minimum.&lt;/p&gt;
+&lt;h2 id=&#34;identify-your-narrative&#34;&gt;Identify your narrative.&lt;/h2&gt;
+&lt;p&gt;The narrative is going to be the overarching structure of your paper. Like the central message, this is jargon heavy and will not be directly included in the body of your paper. However, it helps further guide you in determining the information that needs to be included and what information or concepts are tangential. The most generalized narrative structure was characterized by Randy Olson in his book 
+&lt;a href=&#34;https://press.uchicago.edu/ucp/books/book/chicago/H/bo21174162.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Houston, We Have a Narrative&lt;/em&gt;&lt;/a&gt;. Here, Olson describes the ABT narrative structure, which is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;And,&lt;/strong&gt;
+&lt;strong&gt;But,&lt;/strong&gt;
+&lt;strong&gt;Therefore.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While it appears unassuming, the ABT narrative has a lot to offer scientists. There’s too much to cover in this blog post, so here’s an overview (an ABT workshop will be offered in the future). Most stories can be crafted with a single ABT wherein the AND lays the background information and context, the BUT introduces a conflict or something unexpected, and the THEREFORE describes a solution or conclusion.&lt;/p&gt;
+&lt;p&gt;For example, this article was drafted from a brief ABT narrative:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A - What is prewriting AND what steps are generally included in the first stage,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;B - BUT a poor prewriting strategy can cause problems,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;T - THEREFORE, here are two key concepts (central message and ABT) to guide the author through the writing process more efficiently.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you look back at the overall structure of this blog post, you can see how my ABT forms the skeleton of the writing. Similarly, the ABT helps inform my overall outline, as well as what information is relevant or not. In the ABT, I’ve committed myself to tips that make prewriting more effective for an organized draft. That means I’m not discussing how to manage references. While that’s important and easily locating your references makes adding citations more efficient, it doesn’t directly contribute to the organization of your writing.&lt;/p&gt;
+&lt;p&gt;However, each science story, or manuscript, requires two distinct narrative ABTs. The first is the Question ABT, which generally provides the skeleton of the introduction, rationale, and methodology of the study. The second is the Answer ABT, which describes and organizes the results and their discussion.&lt;/p&gt;
+&lt;p&gt;Going back to the example of my dissertation defense, the narrative describing my first research paper on export of petrobactin from &lt;em&gt;B. anthracis&lt;/em&gt; was:&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Known siderophore-associated proteins are upregulated in low iron conditions AND some known siderophore exporters belong to these different transport protein families. BUT there are many potential siderophore exporters in &lt;em&gt;B. anthracis&lt;/em&gt;. THEREFORE, we have developed a bioinformatics protocol to target potential petrobactin exporters.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;After screening many different potential exporters, petrobactin is exported from the ApeX protein AND accumulates in the cell pellet of ΔApeX mutants. BUT ΔApeX exports functional petrobactin fragments THEREFORE it can still cause disease in mice.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;These ABTs helped identify the structure of the outline and was particularly helpful in deciding the order in which data should be introduced in the results section.&lt;/p&gt;
+&lt;p&gt;By identifying your central message and your narrative, you can help eliminate tangential information. Additionally, having a handle on the eventual narrative of your research paper can prevent a dense, unorganized data-dump draft.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jobs in Science Writing. May, 2020</title>
@@ -22,6 +99,166 @@
 &lt;p&gt;An advice thread: &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;🧵 with unsolicited job advice for new PhDs and almost-done postdocs: &lt;br&gt;&lt;br&gt;If you enjoy scientific writing, consider looking into freelance scientific editing/writing. The Council of Science Editors (CSE) is a great place to start. Their job board is hopping right now. (+)&lt;/p&gt;&amp;mdash; Kate Kadash-Edmondson (@KadashKate) &lt;a href=&#34;https://twitter.com/KadashKate/status/1253763391560265728?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/p&gt;
+&lt;h2 id=&#34;may-20-2020&#34;&gt;May 20, 2020&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Job Opportunity!&lt;br&gt;&lt;br&gt;NASA - National Aeronautics and Space Administration seeks a Public Affairs Specialist based in Washington D.C. &lt;a href=&#34;https://twitter.com/NASA?ref_src=twsrc%5Etfw&#34;&gt;@NASA&lt;/a&gt; &lt;a href=&#34;https://t.co/6cTWvOrOhu&#34;&gt;https://t.co/6cTWvOrOhu&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daybook (@DaybookJobs) &lt;a href=&#34;https://twitter.com/DaybookJobs/status/1260288809083613184?ref_src=twsrc%5Etfw&#34;&gt;May 12, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hey everyone! I&amp;#39;m looking for a postdoctoral research associate to come work with me and &lt;a href=&#34;https://twitter.com/KQEDscience?ref_src=twsrc%5Etfw&#34;&gt;@KQEDscience&lt;/a&gt; on our &lt;a href=&#34;https://twitter.com/NSF?ref_src=twsrc%5Etfw&#34;&gt;@NSF&lt;/a&gt; funded projects! Please forward to those who may be interested!! &lt;a href=&#34;https://twitter.com/hashtag/scicomm?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#scicomm&lt;/a&gt; &lt;a href=&#34;https://t.co/SO9ctVYBX7&#34;&gt;https://t.co/SO9ctVYBX7&lt;/a&gt;&lt;/p&gt;&amp;mdash; Asheley R. Landrum (@LandrumAR) &lt;a href=&#34;https://twitter.com/LandrumAR/status/1260680921038102528?ref_src=twsrc%5Etfw&#34;&gt;May 13, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;.&lt;a href=&#34;https://twitter.com/RockefellerFdn?ref_src=twsrc%5Etfw&#34;&gt;@RockefellerFdn&lt;/a&gt; is hiring a Power and Climate Communications Associate for its Communications, Policy &amp;amp; Advocacy team, developing clear, compelling messages and content to be used across a variety of platforms. &lt;a href=&#34;https://twitter.com/hashtag/SciPolJobs?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SciPolJobs&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/scicommjob?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#scicommjob&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/scicomm?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#scicomm&lt;/a&gt;  &lt;a href=&#34;https://t.co/BsTTNdwFkg&#34;&gt;https://t.co/BsTTNdwFkg&lt;/a&gt;&lt;/p&gt;&amp;mdash; Science Policy Jobs (@SciPolJobs) &lt;a href=&#34;https://twitter.com/SciPolJobs/status/1261283439862591491?ref_src=twsrc%5Etfw&#34;&gt;May 15, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Opportunities in Canada: &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hey &lt;a href=&#34;https://twitter.com/hashtag/SciComm?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SciComm&lt;/a&gt; community! I noticed a bunch of new job postings in Western Canada recently and wanted to share in case anyone else is looking! (thread) &lt;a href=&#34;https://twitter.com/hashtag/SciArt?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SciArt&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/ECR?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ECR&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/greenjobs?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#greenjobs&lt;/a&gt; I&amp;#39;ll add to this thread if I find more!&lt;/p&gt;&amp;mdash; Sarah Nason (@nasonicus) &lt;a href=&#34;https://twitter.com/nasonicus/status/1261770344290893825?ref_src=twsrc%5Etfw&#34;&gt;May 16, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hey &lt;a href=&#34;https://twitter.com/nasw?ref_src=twsrc%5Etfw&#34;&gt;@NASW&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/nswa?ref_src=twsrc%5Etfw&#34;&gt;@NSWA&lt;/a&gt; members: We’ve got a job &lt;a href=&#34;https://twitter.com/PNNLab?ref_src=twsrc%5Etfw&#34;&gt;@PNNLab&lt;/a&gt;, for someone skilled at both science writing and media relations. Great benefits, low taxes, and a huge science program to explore.  Join us! &lt;a href=&#34;https://t.co/VhAYX14WyW&#34;&gt;https://t.co/VhAYX14WyW&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tom Rickey (@trickeyPNNL) &lt;a href=&#34;https://twitter.com/trickeyPNNL/status/1261376410045657088?ref_src=twsrc%5Etfw&#34;&gt;May 15, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://senseaboutscience.org/activities/vacancy-policy-and-research-manager/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Policy and research manager&lt;/a&gt;: London, UK&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://careers-omnicomhealthgroup.icims.com/jobs/20876/copywriter/job?hub=8&amp;amp;mobile=false&amp;amp;width=1170&amp;amp;height=500&amp;amp;bga=true&amp;amp;needsRedirect=false&amp;amp;jan1offset=-360&amp;amp;jun1offset=-300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Copywriter&lt;/a&gt;: New York&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=bb3d417acbc4f736&amp;amp;tk=1e8hochiup5sr800&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Associate or Senior Editor (Applied Math/Physics), Nature Computational Science&lt;/a&gt;: Berlin, NY&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=0246ed7e9ef6d066&amp;amp;q=journal&amp;#43;editor&amp;amp;tk=1e8hochiup5sr800&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Editor in Engineering&lt;/a&gt;: Remote&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=6e8bb6d124c651d0&amp;amp;q=science&amp;#43;editor&amp;amp;tk=1e8ho7psfp5sr801&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical Writer/Editor&lt;/a&gt;: Moorestown, NJ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=1534d73f75a39998&amp;amp;q=science&amp;#43;editor&amp;amp;tk=1e8ho7psfp5sr801&amp;amp;from=web&amp;amp;advn=118988997263982&amp;amp;adid=225566665&amp;amp;sjdu=0ZFwD5rbjMRcHz87Kzx_g_c8fOg1OYXyBHC-hDZF3rgJucCnPIWl436eH42Dg5fsqpTtoT6dfe3s7ZUQ5YY52KpJxJ31R8td_Qu8bMMhJQD8rihnQDY4wxsMCRR5HxxJEu8gzRvcWDxHvtg8aaKp6g&amp;amp;acatk=1e8ho8c9uhebj800&amp;amp;pub=4a1b367933fd867b19b072952f68dceb&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical Writer/Editor 3&lt;/a&gt;: Newark, DE&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=5c772b3e455c8125&amp;amp;tk=1e8hmfqa9p5sr800&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medical Writer&lt;/a&gt;: Des Plaines, IL&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=16f11c7bd201ff7d&amp;amp;q=science&amp;#43;writing&amp;amp;tk=1e8hmf6kap5sr800&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clinical/Medical Report Writer&lt;/a&gt;: Remote&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=22c17b7bcde1f9f9&amp;amp;tk=1e8hmbultp5sr800&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Senior Manager Scientific Medical Writer&lt;/a&gt;: Whippany, NJ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=5cd63205ddff26ea&amp;amp;tk=1e8hmfqa9p5sr800&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grants Assistant&lt;/a&gt;: Bar Harbor, ME&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=183cebd0fccb9425&amp;amp;q=science&amp;#43;writing&amp;amp;tk=1e8hmfqa9p5sr800&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freelance Health &amp;amp; Science Journalist&lt;/a&gt;: New York, NY&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=6e8bb6d124c651d0&amp;amp;q=science&amp;#43;writing&amp;amp;tk=1e8hmi5eop5sr800&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical Writer/Editor&lt;/a&gt;: Moorestown, NJ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=766d57705e32bd58&amp;amp;tk=1e8hmkars33la000&amp;amp;from=serp&amp;amp;vjs=3&amp;amp;advn=6111343572945211&amp;amp;adid=337043625&amp;amp;sjdu=9nrDNPdV1DghkDNnC2WJlW1nrk21-asFvjSk9jx-s_OGMnXC8_RNWhee1t3qBzCole3i10BxQuSqTvn4zQJOTxB5zaWSg2jzSVNEB8jxWeBAmAeSdROOZifoi0X7PLnr3-6jO3HUx7fnxoseSqMxdHSuRoZbSPCwsxMPXOQZKAvp85WFZ76u30w0cNtPTlgEc6ggs7IKzgRQDLrvxgaR0o_B8x-CMNOTBto0S-nbEvuckEHoGACUGTI92VORo0PirdCzJ7QJeJYq-woiV_jv_iRt-pVSZ2ApDQ7ezhq4vFo_jpDyxot3t7du8svejvYpZzLPRmCGjyINlJwwUo0VDhneGy--a2InnCzUCNlNsiemFO11u3gGwfyXv-uUtQFQvSfMR7jfE-NzjnkFVl4eeZDwXaepEUKldH5PNzU2FhRDnvOk2BNs9KorBJz4d8gmIURoQ_ICcEHuVVhs3tU4_guqvovoLsnWE_ZxverwNLRJkjcCg8MD6SZPJdNTP4bZ_Mnf5PM1mgLty4Ff1OcFey0pFIaP3WJumYnCGMZRYXz83AP4huSi_v0ETcU_qRSF8yva94eTUHYFWcxdAnjo4Pk1asReUndMxpUvTXHiRFlzEVxOsJ524J9PUG4OC-qJaZCpBC6WS1Fa6SEZbestrw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Writer, Translational Diagnosis &amp;amp; Development&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=2cf99d998d56e319&amp;amp;tk=1e87nphpjp64p800&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Senior Editor&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=2049fc3ac30ee0e5&amp;amp;q=journal&amp;#43;editor&amp;amp;tk=1e87nphpjp64p800&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Writer - Subject Matter Expert&lt;/a&gt;: Silver Spring, MD&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=ff9d1a52f6c83bf8&amp;amp;q=journal&amp;#43;editor&amp;amp;tk=1e87nnqbpp64p800&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freelance Medical Editor&lt;/a&gt;: Remote&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=fb23b8826f747f68&amp;amp;q=journal&amp;#43;editor&amp;amp;tk=1e87nnqbpp64p800&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Cancer Institute (NCI) Science Writer&lt;/a&gt;: Washington, DC 20006&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=e46b52a21907cdd6&amp;amp;tk=1e87nnqbpp64p800&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medical Editor - MD/DO&lt;/a&gt;: Remote&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?cmp=Laurin-Publishing-Co.&amp;amp;t=Science&amp;#43;News&amp;#43;Editor&amp;amp;jk=5e3d64f70e71a2c8&amp;amp;q=science&amp;#43;editor&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science News Editor&lt;/a&gt;: Pittsfield, MA 01201&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=780c56387b66ce7c&amp;amp;tk=1e87lfa6gp64p801&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDC Suicide Prevention Research Fellowship&lt;/a&gt;: Atlanta, GA 30322&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=34abab72cdb4c636&amp;amp;tk=1e87lg3jfp64p800&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CDC Suicide and Adverse Childhood Experiences Prevention Rapid Response Fellowship&lt;/a&gt;: Atlanta, GA 30322&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=41273ced5c7727a0&amp;amp;tk=1e87ljo51p64p800&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical Writer-Editor&lt;/a&gt;: Miami, FL; $55,204 - 118,603 a year&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=c0e2af41cd7928da&amp;amp;q=Science&amp;#43;writer&amp;amp;tk=1e87llevop64p801&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical Writer with Pharma experience&lt;/a&gt;: Branchburg, NJ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=d0e75a757e523a49&amp;amp;q=Science&amp;#43;writer&amp;amp;tk=1e87llevop64p801&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientific Technical Writer&lt;/a&gt;: Gaithersburg, MD 20878&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=aabb10a6e07f1edc&amp;amp;tk=1e87llevop64p801&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report Writer 1&lt;/a&gt;: Rockville, MD 20850&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=51af30c24f77393b&amp;amp;tk=1e87llevop64p801&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medical Writer - Oncology&lt;/a&gt;: Remote&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=bb0bd972409503e5&amp;amp;tk=1e87llevop64p801&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Research Medical Writer&lt;/a&gt;: Bethesda, MD; Up to $75,000 a year&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=6409ebef8ffdeadf&amp;amp;q=Science&amp;#43;writer&amp;amp;tk=1e87ln8rip64p802&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medical Writer&lt;/a&gt;: San Diego, CA 92121&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=fbc819733f6d1928&amp;amp;q=Science&amp;#43;writer&amp;amp;tk=1e87ln8rip64p802&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Writer&lt;/a&gt;: Huntsville, AL 35806&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=a9eab74ab674ba7c&amp;amp;tk=1e87ln8rip64p802&amp;amp;from=serp&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clinical Technical Editor&lt;/a&gt;: Remote&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=cd145b96d6f8ed7b&amp;amp;q=Science&amp;#43;writer&amp;amp;tk=1e87ln8rip64p802&amp;amp;from=web&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grant Writer&lt;/a&gt;: Cambridge, MA 02142&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?cmp=Clostra&amp;amp;t=Technical&amp;#43;Writer&amp;#43;Grant&amp;#43;Manager&amp;amp;jk=9c57e42d7a0f15ab&amp;amp;q=Science&amp;#43;writer&amp;amp;vjs=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Technical Writer/Grant Manager&lt;/a&gt;: Remote; $25 - $45 an hour&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indeed.com/viewjob?jk=3acc1d5da695f098&amp;amp;q=Science&amp;#43;Communication&amp;amp;l=Remote&amp;amp;tk=1e87k6ua70fhr000&amp;amp;from=ja&amp;amp;alid=5dbc511d04a6625d1a345e91&amp;amp;utm_campaign=job_alerts&amp;amp;utm_medium=email&amp;amp;utm_source=jobseeker_emails&amp;amp;rgtk=1e87k6ua70fhr000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Communications Specialist&lt;/a&gt;: Remote; $40,000 - $50,000 a year&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;may-13-2020&#34;&gt;May 13, 2020&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
