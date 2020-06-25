@@ -5,12 +5,71 @@
     <link>https://alliancescc.github.io/post/</link>
       <atom:link href="https://alliancescc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Writing Tips</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2020</copyright><lastBuildDate>Wed, 17 Jun 2020 23:03:16 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2020</copyright><lastBuildDate>Thu, 25 Jun 2020 11:32:08 -0400</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/img/avatar.png</url>
       <title>Writing Tips</title>
       <link>https://alliancescc.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>How Do I Organize My Sources?</title>
+      <link>https://alliancescc.github.io/post/organize_research/</link>
+      <pubDate>Thu, 25 Jun 2020 11:32:08 -0400</pubDate>
+      <guid>https://alliancescc.github.io/post/organize_research/</guid>
+      <description>&lt;p&gt;In the course of a literature review, you may come across hundreds of research papers that will contribute to your understanding of the field and possibly even be cited in a manuscript. So how do you keep track of these sources?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Write an annotated bibliography&lt;/strong&gt; - An annotated bibliography is going to be a list of the sources that you’ve read along with important notes to explain the source’s importance and relevance to your research. While some people do this by hand, that can be laborious, particularly when you are searching for a source after the fact. My suggestion for the modern annotated bibliography is to use a searchable format such as Word, Rmarkdown, OneNote, or EndNote, etc. That will allow you to easily re-reference a source and (re)identify sources that talk about particular concepts. Below is a list of components to include in each entry.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt; - In addition to the author(s) and year of publication, you should also make a note of the doi (so you can find it later using &lt;a href=&#34;https://doi.org/%5Bdoi%5D),&#34;&gt;https://doi.org/[doi]),&lt;/a&gt; and the filename of the pdf. The filename is especially important since it allows you to find the pdf you already have, without opening 20 files one-by-one.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt; - Are any of the methods used especially relevant to your work? This might be because you need the protocol, they are key to interpreting the data, and/or are insufficient (i.e., they provide an opportunity for you to improve the field).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt; - What are the key results and findings? What figure is central to their story?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Limitations&lt;/strong&gt; - What are the limitations of the research? What could be done differently to improve the robustness of the research?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Your thoughts&lt;/strong&gt; - What do you think about the paper? Use this as an opportunity to present your unfiltered thoughts, feelings, musings, and big ideas. That way you can find them later.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Follow up&lt;/strong&gt; - Are there any references that you should read in the future?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Keep a spreadsheet&lt;/strong&gt; - Spreadsheets are another option for keeping track of the sources you have identified in a searchable and easy to skim format. In this case, you would likely have more information about the source’s origins, citations, accessibility, etc. (See &amp;ldquo;Organizing Sources&amp;rdquo; in the Resource section for a template)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use a citation management system&lt;/strong&gt; - Some citation management systems are great for keeping track of relevant sources. Mendeley is a particularly good option because you can import, read, highlight, annotate, and search for a pdf. However, it has undergone some recent changes that make it more difficult to use and transfer your references if necessary. (See the Resource section below for some handy web tools)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://habitsofatravellingarchaeologist.com/tips-for-organizing-sources-for-research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Organizing Sources for Research Papers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://research.ewu.edu/c.php?g=53632&amp;amp;p=2986487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organizing Sources&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://beryliveylibrary.wordpress.com/2018/02/13/organize-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What’s the best way to organize my research?&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.lifewire.com/organize-research-3483046&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organize Your Research With These Free Web Tools&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Where to Start (and When to Stop) a Lit Review</title>
