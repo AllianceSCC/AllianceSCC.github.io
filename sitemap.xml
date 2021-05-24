@@ -3,8 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alliancescc.github.io/authors/admin/</loc>
+    <lastmod>2021-05-24T11:59:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/publication_types/2/</loc>
+    <lastmod>2021-05-24T11:59:59-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alliancescc.github.io/</loc>
-    <lastmod>2020-06-25T11:32:08-04:00</lastmod>
+    <lastmod>2021-05-24T11:59:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/authors/</loc>
+    <lastmod>2021-05-24T11:59:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/publication_types/</loc>
+    <lastmod>2021-05-24T11:59:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/publication/</loc>
+    <lastmod>2021-05-24T11:59:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/publication/suggestions-for-improving-invited-speaker-diversity/</loc>
+    <lastmod>2021-05-24T11:59:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/publication/ten-simple-rules-to-increase-computational-skills/</loc>
+    <lastmod>2021-05-24T11:58:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/publication/women-are-underrepresented-and-receive-differential-outcomes-at-asm-journals/</loc>
+    <lastmod>2021-05-24T11:57:51-04:00</lastmod>
   </url>
   
   <url>
@@ -20,16 +60,6 @@
   <url>
     <loc>https://alliancescc.github.io/post/when_to_stop/</loc>
     <lastmod>2020-06-17T23:03:16-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alliancescc.github.io/authors/admin/</loc>
-    <lastmod>2020-05-27T14:23:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alliancescc.github.io/authors/</loc>
-    <lastmod>2020-05-27T14:23:09-04:00</lastmod>
   </url>
   
   <url>
@@ -92,7 +122,11 @@
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/publication_types/</loc>
+    <loc>https://alliancescc.github.io/portfolio/examining_flint/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/portfolio/give_a_baby_a_bath/</loc>
   </url>
   
   <url>
@@ -108,11 +142,23 @@
   </url>
   
   <url>
-    <loc>https://alliancescc.github.io/publication/</loc>
+    <loc>https://alliancescc.github.io/portfolio/siderophore_treatment_target/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/portfolio/siderophore_bacterial_swiss_army_knives/</loc>
   </url>
   
   <url>
     <loc>https://alliancescc.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/better_writing/</loc>
   </url>
   
 </urlset>

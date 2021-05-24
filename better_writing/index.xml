@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing Professional Development | Alliance SciComm &amp; Consulting</title>
+    <link>/better_writing/</link>
+      <atom:link href="/better_writing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Writing Professional Development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2021</copyright>
+    <image>
+      <url>/img/avatar.png</url>
+      <title>Writing Professional Development</title>
+      <link>/better_writing/</link>
+    </image>
+    
+  </channel>
+</rss>
