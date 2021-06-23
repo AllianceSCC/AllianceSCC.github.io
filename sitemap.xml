@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alliancescc.github.io/</loc>
+    <lastmod>2021-06-23T18:14:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/post/draft_methods_intro/</loc>
+    <lastmod>2021-06-23T18:14:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alliancescc.github.io/post/</loc>
+    <lastmod>2021-06-23T18:14:39-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alliancescc.github.io/authors/admin/</loc>
     <lastmod>2021-05-24T11:59:59-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://alliancescc.github.io/publication_types/2/</loc>
-    <lastmod>2021-05-24T11:59:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alliancescc.github.io/</loc>
     <lastmod>2021-05-24T11:59:59-04:00</lastmod>
   </url>
   
@@ -49,11 +59,6 @@
   
   <url>
     <loc>https://alliancescc.github.io/post/organize_research/</loc>
-    <lastmod>2020-06-25T11:32:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alliancescc.github.io/post/</loc>
     <lastmod>2020-06-25T11:32:08-04:00</lastmod>
   </url>
   
