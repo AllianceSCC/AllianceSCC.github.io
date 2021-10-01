@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Stories | Alliance SciComm &amp; Consulting, LLC</title>
+    <link>https://alliancescc.github.io/tag/science-stories/</link>
+      <atom:link href="https://alliancescc.github.io/tag/science-stories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science Stories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2021</copyright><lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
+      <title>Science Stories</title>
+      <link>https://alliancescc.github.io/tag/science-stories/</link>
+    </image>
+    
+    <item>
+      <title>Identify the Story to Make Your Writing Process More Effective</title>
+      <link>https://alliancescc.github.io/post/central_message_narrative/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/post/central_message_narrative/</guid>
+      <description>&lt;p&gt;Deciding what to write about is generally pretty easy for a researcher. Here’s my research topic. Read. Take notes. Write the manuscript. But approaching the prewriting and drafting stages of the writing process that way can waste precious time and energy, so here are a couple of things you can do to focus your prewriting.&lt;/p&gt;
+&lt;p&gt;Prewriting is the first step in your journey to a manuscript or review paper. It precedes the drafting stage and is the step that will likely take the longest. During prewriting you:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Decide what you’re going to write about,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Make an outline of your paper, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Research and take notes, aka “review the literature”.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;While it may seem straightforward (albeit overwhelming), the prewriting process is crucial to all following steps of the writing process. A haphazard approach to prewriting can result in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Non-essential research,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Disorganized writing full of tangents, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A longer/more difficult revision process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All of which add up to lost time and energy.&lt;/p&gt;
+&lt;p&gt;That means you need a solid prewriting strategy, which is determined in the first (seemingly shortest) action of the writing process: deciding your topic.&lt;/p&gt;
+&lt;p&gt;Here are two tips to focus your ideas during step one of prewriting.&lt;/p&gt;
+&lt;h2 id=&#34;identify-the-central-message&#34;&gt;Identify the central message.&lt;/h2&gt;
+&lt;p&gt;The central message is one or two sentences that identify what you want your reader to know when they are done reading your scientific text. Since these are for planning purposes, they are often jargon heavy and don’t make it into your article intact. Instead, the central message helps guide you, the author, in identifying key information that needs to be included in your outline and literature review.&lt;/p&gt;
+&lt;p&gt;For instance, my dissertation work studied how the bacterium &lt;em&gt;Bacillus anthracis&lt;/em&gt; gathered iron using a small molecule called a siderophore. Siderophores are exported and used to scavenge insoluble iron from the environment. One of the siderophores that &lt;em&gt;B. anthracis&lt;/em&gt; uses is called petrobactin. So, when I was planning my dissertation defense the central message for my talk was:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Petrobactin is &lt;a href=&#34;https://mbio.asm.org/content/9/6/e02079-18.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;required for rapid sporulation&lt;/a&gt; by &lt;em&gt;B. anthracis&lt;/em&gt; and is &lt;a href=&#34;https://mbio.asm.org/content/8/5/e01238-17.short&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exported by ApeX&lt;/a&gt;, but petrobactin fragments can support &lt;em&gt;B. anthracis&lt;/em&gt; disease.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Again, this is jargon heavy and did not become an explicit sentence in my defense. However, it narrows down the information that will be included. For instance, if I’m discussing petrobactin use by &lt;em&gt;B. anthracis&lt;/em&gt;, then I don’t need to discuss other bacteria that may use petrobactin (which is important information for a review paper about petrobactin). Additionally, if I’m focusing on the role of petrobactin in sporulation, then I can keep my discussion of spore germination to a minimum.&lt;/p&gt;
+&lt;h2 id=&#34;identify-your-scientific-narrative&#34;&gt;Identify your scientific narrative.&lt;/h2&gt;
+&lt;p&gt;The narrative is going to be the overarching structure of your paper. Like the central message, this is jargon heavy and will not be directly included in the body of your paper. However, it helps further guide you in determining the information that needs to be included and what information or concepts are tangential. The most generalized narrative structure was characterized by Randy Olson in his book &lt;a href=&#34;https://press.uchicago.edu/ucp/books/book/chicago/H/bo21174162.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Houston, We Have a Narrative&lt;/em&gt;&lt;/a&gt;. Here, Olson describes the ABT narrative structure, which is:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;And,&lt;/strong&gt;
+&lt;strong&gt;But,&lt;/strong&gt;
+&lt;strong&gt;Therefore.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While it appears unassuming, the ABT narrative has a lot to offer scientists. There’s too much to cover in this blog post, so here’s an overview (an ABT workshop will be offered in the future). Most stories can be crafted with a single ABT wherein the AND lays the background information and context, the BUT introduces a conflict or something unexpected, and the THEREFORE describes a solution or conclusion.&lt;/p&gt;
+&lt;p&gt;For example, this article was drafted from a brief ABT narrative:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A - What is prewriting AND what steps are generally included in the first stage,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;B - BUT a poor prewriting strategy can cause problems,&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;T - THEREFORE, here are two key concepts (central message and ABT) to guide the author through the writing process more efficiently.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you look back at the overall structure of this blog post, you can see how my ABT forms the skeleton of the writing. Similarly, the ABT helps inform my overall outline, as well as what information is relevant or not. In the ABT, I’ve committed myself to tips that make prewriting more effective for an organized draft. That means I’m not discussing how to manage references. While that’s important and easily locating your references makes adding citations more efficient, it doesn’t directly contribute to the organization of your writing.&lt;/p&gt;
+&lt;p&gt;However, each science story, or manuscript, requires two distinct narrative ABTs. The first is the Question ABT, which generally provides the skeleton of the introduction, rationale, and methodology of the study. The second is the Answer ABT, which describes and organizes the results and their discussion.&lt;/p&gt;
+&lt;p&gt;Going back to the example of my dissertation defense, the narrative describing my first research paper on export of petrobactin from &lt;em&gt;B. anthracis&lt;/em&gt; was:&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Question:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Known siderophore-associated proteins are upregulated in low iron conditions AND some known siderophore exporters belong to these different transport protein families. BUT there are many potential siderophore exporters in &lt;em&gt;B. anthracis&lt;/em&gt;. THEREFORE, we have developed a bioinformatics protocol to target potential petrobactin exporters.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;After screening many different potential exporters, petrobactin is exported from the ApeX protein AND accumulates in the cell pellet of ΔApeX mutants. BUT ΔApeX exports functional petrobactin fragments THEREFORE it can still cause disease in mice.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;These ABTs helped identify the structure of the outline and was particularly helpful in deciding the order in which data should be introduced in the results section.&lt;/p&gt;
+&lt;p&gt;By identifying the central message and narrative of your scientific text, you can help eliminate tangential information. Additionally, having a handle on the eventual narrative of your research paper can prevent a dense, unorganized data-dump draft.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tips for Getting Writing Done in Pandemic Purgatory</title>
+      <link>https://alliancescc.github.io/post/pandemic_purgatory/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/post/pandemic_purgatory/</guid>
+      <description>&lt;p&gt;At the end of January, one month before Michigan responded to the pandemic by closing non-essential services, I pulled my 3-year-old from daycare. I was (and still am) attempting to launch a business, but our back up funds had run dry and we could no longer afford childcare. As it happened, I got an early taste of the pandemic dilemma that millions have faced since.&lt;/p&gt;
+&lt;p&gt;My work is a large part of my identity and in this extended lack of childcare, my brain will not turn off. Unlike many, I don’t have the external motivating factors of an institution who demands more than I can give, but neither can I put my work on hold to embrace the single job of stay-at-home parenting. The internal motivators, and the normalcy that it provides, are too strong. So, like many others I am stuck in this pandemic purgatory where housework, childcare, and my own motivations are in constant opposition.&lt;/p&gt;
+&lt;p&gt;Below are some things I’ve learned while trying to live, and write, in my purgatory. Perhaps they will be helpful for others. The caveat is that while I solo parent during the work day (6am to ??),  I do have &lt;a href=&#34;https://www.cbc.ca/parents/learning/view/covid-19-pandemic-privilege?__vfz=medium%3Dsharebar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;many pandemic privileges&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; that may affect how well these tips work for you. That said, here are my suggestions for maintaining sanity-saving levels of writing and productivity in our collective pandemic purgatory.&lt;/p&gt;
+&lt;h2 id=&#34;keep-up-with-self-care&#34;&gt;Keep up with self-care&lt;/h2&gt;
+&lt;p&gt;Writing is a creative act that consumes a lot of mental energy, so self-care remains as important as ever.  In addition to the existential threat of a pandemic, the availability of digital workplaces (e.g., Zoom, Slack, Google Drive) enables (even enforces) bringing our work lives home in an unprecedented way, creating unprecedented stress. Whether it’s paying the bills, making the (virtual) therapy appointment, or taking a bath, we must provide ourselves with the opportunity to reduce our stress levels whenever possible.&lt;/p&gt;
+&lt;p&gt;We already know that humans need adequate sleep to be productive. In fact, the stress created by sleep deprivation can reduce the productivity of any time gained. Similarly, the excessive amount of work-from-home-and-homeschool-my-child-during-a-pandemic stress might cause post-lunch exhaustion or irritability. That’s your cue to take a nap, work out, or practice a similar stress-relief technique.&lt;/p&gt;
+&lt;h2 id=&#34;practice-delegating&#34;&gt;Practice delegating&lt;/h2&gt;
+&lt;p&gt;I can accept taking my car to a mechanic for an oil change, but when it comes to my work, I’m the queen of “Oh, I’ll just do it myself.” That approach used to work, since I had childcare and the luxury of time and focus to figure it out. Now that I don’t have either, I’ve finally realized that I need to delegate tasks that don’t absolutely require my skills.&lt;/p&gt;
+&lt;p&gt;Do you really have the mental load available to learn Adobe Illustrator right now? Probably not, so find a professional to make your graphic.&lt;/p&gt;
+&lt;p&gt;Have you read your grant proposal so many times that you have it memorized? Now’s the time to have a professional editor look it over.&lt;/p&gt;
+&lt;p&gt;Are you facepalming to the tune of R errors? Find a data analyst and get some help.&lt;/p&gt;
+&lt;p&gt;Delegation (i.e., trusting someone else with &lt;em&gt;your&lt;/em&gt; work) is tough, but essential to retain your limited mental load, sanity, and productivity. Additionally, plenty of small businesses and freelancers could use the extra business right now.&lt;/p&gt;
+&lt;h2 id=&#34;bargain&#34;&gt;Bargain&lt;/h2&gt;
+&lt;p&gt;My son loves the new norm of virtually unlimited access to me. I had difficulty adjusting. It would be difficult to negotiate the abrupt transition from the traditional 9 to 5 to our new work conditions alone, but adding children, roommates, and/or partners makes it all the more difficult. That’s why I suggest just that, negotiating.&lt;/p&gt;
+&lt;p&gt;Recognizing the upheaval of our lives and validating the fears, frustrations, and desires of our fellow captives is the first step to establishing a functional household. My son’s desire for a constant playmate and parent is valid and expected, but counterproductive to my own mental health. So, I negotiate boundaries that enable both of us to get what we need. These are some of the resources that have resulted in productive negotiations in our household.&lt;/p&gt;
+&lt;h3 id=&#34;time&#34;&gt;Time&lt;/h3&gt;
+&lt;p&gt;I’m not very good at schedules, but I have an ideal schedule&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; that alternates between work and play. I make it very clear that I have to work for 2 hours, after which we will do whatever activity he chooses. Then I set a timer and stick to our agreement. After lunch, another 2 hours are blocked out for “quiet time”, i.e., I work and he naps or plays in his room.&lt;/p&gt;
+&lt;p&gt;Another strategy to negotiate time is pushing back bedtime. My son doesn’t nap and tends to function in 12 hour sleep/wake cycles; unless my depression is acting up, I get up with my husband at 6 am. With a standard 8/9pm bedtime, this allows me one to two hours of uninterrupted work. Mornings are my most productive time of the day, so to maximize my time we started allowing my son to stay up later, and later, and later. Eventually, he was going to bed around midnight (hubby is a night owl) and sleeping until almost 11am. Hello half a work day! Disclaimer: This only worked a few weeks. Then he fell asleep at 5pm one night, woke up at 6am and we were back where we started &lt;em&gt;sigh&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;desirables&#34;&gt;Desirables&lt;/h3&gt;
+&lt;p&gt;After work versus play time has been negotiated, we enter the “desirable” bargain (aka bribing) phase. Here, my son requests something that will better facilitate his solo play time. A common request is screen time, which is an automatic given for the “quiet time” described above. If his tablet isn’t available, I generally give up my phone for him to watch videos. YouTube for Kids is pretty dicy, so instead I open either Netflix or the &lt;strong&gt;free&lt;/strong&gt; PBS Video app, which features favorites like Daniel Tiger and the Kratt brothers. Sometimes, a favorite snack or treat is the missing ingredient to successful solo play. My son most often requests hot chocolate or an ice pop.&lt;/p&gt;
+&lt;p&gt;In some cases, there aren’t any desirables that will facilitate work/writing time. Instead, he wants to do an activity “with you!” and we negotiate attention for proximity. I pick a task that I can do with slightly less focused mental labor, and sit next to him while he plays or watches a favorite show.&lt;/p&gt;
+&lt;h2 id=&#34;find-accountability&#34;&gt;Find accountability&lt;/h2&gt;
+&lt;p&gt;Even if we have found the time and mental space to work, it’s easy to get distracted by the latest Twitter dumpster fire. This is where accountability comes into play. Find an accountability partner to set goals with and report back to. Having defined goals helps prevent the “what am I doing” overwhelm that often leads (me) to Twitter. Alternately, you and your accountability partner(s) could schedule video calls during overlapping work hours. Not for talking, but for working in tandem, which facilitates focus for both of you. An added bonus is having adult human contact to look forward to.&lt;/p&gt;
+&lt;p&gt;Scientific productivity is a core component of my identity and a symbol of normalcy that maintains my sanity. Taking care of myself, working with my fellow housemates, delegating tasks, and finding accountability have all been integral to maintaining any level of productivity.  While the above suggestions may not &lt;strong&gt;&lt;em&gt;seem&lt;/em&gt;&lt;/strong&gt; like writing tips, they all contribute to that first essential step of writing: doing it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Pandemic Privileges:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;My husband has continued working, so we have not lost our primary income&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have a large house with a yard&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have technology: TV, internet, computers, tablet, phones, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have the cash flow and space to store food to minimize exposure and reduce stress&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;We have our own transportation&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Briefly, my ideal schedule is to work from 6:30 am until my son wakes up. Then we take a breakfast break and he plays/has screen time for another couple of hours. At 11am we go outside until lunch at 12:30. After lunch is a 2 hour &amp;ldquo;quiet time&amp;rdquo; followed by chores and my workout. Then it&amp;rsquo;s snack time, after which we play whatever my son wants until it&amp;rsquo;s time for dinner, bath, and bed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-suggested-workplay-schedule&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A suggested work/play schedule&#34; srcset=&#34;
+               /post/pandemic_purgatory/schedule_hu1f2cd1589726743794d8c2ad2031bae0_47995_14069fe221cc468da1ae31ac6054985c.png 400w,
+               /post/pandemic_purgatory/schedule_hu1f2cd1589726743794d8c2ad2031bae0_47995_bec3c2e0778ce5d1a9d6e6a87b8a1aee.png 760w,
+               /post/pandemic_purgatory/schedule_hu1f2cd1589726743794d8c2ad2031bae0_47995_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://alliancescc.github.io/post/pandemic_purgatory/schedule_hu1f2cd1589726743794d8c2ad2031bae0_47995_14069fe221cc468da1ae31ac6054985c.png&#34;
+               width=&#34;688&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      A suggested work/play schedule
+    &lt;/figcaption&gt;&lt;/figure&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

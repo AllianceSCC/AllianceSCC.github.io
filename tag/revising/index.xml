@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revising | Alliance SciComm &amp; Consulting, LLC</title>
+    <link>https://alliancescc.github.io/tag/revising/</link>
+      <atom:link href="https://alliancescc.github.io/tag/revising/index.xml" rel="self" type="application/rss+xml" />
+    <description>Revising</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2021</copyright><lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
+      <title>Revising</title>
+      <link>https://alliancescc.github.io/tag/revising/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Writing is Messy. That’s Perfect.</title>
+      <link>https://alliancescc.github.io/post/writing_process/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/post/writing_process/</guid>
+      <description>&lt;p&gt;The scientific writing process can be summarized in five steps: prewriting, drafting, revising, editing, and finally… publication. It seems straightforward, but also&amp;hellip; overwhelming. Especially when you’re tasked with starting at the beginning.&lt;/p&gt;
+&lt;p&gt;The good news is that while writing is a lot of work, it can be made more approachable. This post is the first in a series that will explore the writing process and break it down into actionable pieces, with an emphasis on writing in the biological and biosciences.&lt;/p&gt;
+&lt;p&gt;We’ll begin by describing the overall writing process and workflow.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Prewriting - generate ideas, identify evidence and sources, and craft outlines&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Drafting - transform the outline into logically connected sentences and paragraphs, add evidence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Revising - reorganize the draft, add evidence, eliminate tangents&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Editing - correct misspellings and grammar, check citations and figures&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Publication - submit for grading (or peer review)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;And so, the general process appears to be linear.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-what-we-think-the-writing-process-is-like-linear&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;What we think the writing process is like. Linear.&#34; srcset=&#34;
+               /post/writing_process/writing_process_linear_hu505d8ad4a4021a1134ad263daf931d17_5271_0049405cc553350ed823b5900c083896.png 400w,
+               /post/writing_process/writing_process_linear_hu505d8ad4a4021a1134ad263daf931d17_5271_d68ab58266e02ccefd1577c5d368cbd7.png 760w,
+               /post/writing_process/writing_process_linear_hu505d8ad4a4021a1134ad263daf931d17_5271_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://alliancescc.github.io/post/writing_process/writing_process_linear_hu505d8ad4a4021a1134ad263daf931d17_5271_0049405cc553350ed823b5900c083896.png&#34;
+               width=&#34;344&#34;
+               height=&#34;726&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      What we think the writing process is like. Linear.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;But in practice, the effective writing process is quite a bit messier (image 2). For instance, after writing a first draft, the author often identifies topics that need more elaboration and/or evidence, which send them back through the prewriting and drafting steps. Even after a manuscript is done and submitted to a research advisor or reviewer, it often comes back with requests for revision. To accomplish those revisions, the author may need to revisit the prewriting and drafting steps again, followed by revising and editing for resubmission.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-better-representation-of-the-writing-process-iterative&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A better representation of the writing process. Iterative.&#34; srcset=&#34;
+               /post/writing_process/writing_process_messy_hu737c7f8e29dd2bae9f0b8b1a5bf0de99_9007_ba050413a17c9aac9341df1b6d94bdca.png 400w,
+               /post/writing_process/writing_process_messy_hu737c7f8e29dd2bae9f0b8b1a5bf0de99_9007_5e26e89e0405d74ff2613b8fc5e50362.png 760w,
+               /post/writing_process/writing_process_messy_hu737c7f8e29dd2bae9f0b8b1a5bf0de99_9007_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://alliancescc.github.io/post/writing_process/writing_process_messy_hu737c7f8e29dd2bae9f0b8b1a5bf0de99_9007_ba050413a17c9aac9341df1b6d94bdca.png&#34;
+               width=&#34;586&#34;
+               height=&#34;609&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      A better representation of the writing process. Iterative.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;At first glance, the real writing process may seem even more overwhelming. After all, how are you supposed to know when to move forward or backward? How will you know when you’re done?&lt;/p&gt;
+&lt;p&gt;These are valid fears, and the beauty of an iterative writing process is that you don’t really have to answer them. Approaching writing as an iterative process, as opposed to linear, has multiple advantages. Some of these include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reduced pressure for first drafts,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;More realistic writing expectations,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;More accurate writing timeline, and&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Having sections in different stages of the process allows for workload flexibility.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Scientific writing is an act of creativity that requires freedom to think, synthesize, and explore new ideas. Removing the pressure for the first draft to be perfect, or near perfect, allows you as a writer to start the writing process more creatively with bigger, messier ideas. As the ideas are refined, they might lead to unexpected connections and conclusions, but it’s hard to know unless they are given voice.&lt;/p&gt;
+&lt;p&gt;Additionally, because you begin the process knowing that prewriting, drafting, and revising will be revisited, there is less pressure for each step to be “complete” before moving on to the next. Set goals for the amount of time of words that you’ll spend on each step and when you’re done, start over. The more you write, the more accurate expectations you can develop for the time and effort spent at each step, leading to more accurate writing timelines.&lt;/p&gt;
+&lt;p&gt;An added bonus is that you can break down the writing task into smaller chunks, and work through the writing process for each individual section. If you have sections at varying stages (e.g., introduction is in prewriting, methods are in revising, discussion is in drafting), then you have freedom in the type of writing you will accomplish on any given day. Tired of putting words on the page? Read literature and work on prewriting the introduction. Mentally burnt out but still want to make progress? Add citations to the methods section.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“ Writing is not a linear process, like following a recipe to bake a cake.” Teaching Elementary School Students to Be Effective Writers, &lt;a href=&#34;https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/writing_pg_062612.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pg 14&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If the demands of a linear writing process seem overwhelming to you. It’s understandable. Approaching writing as an iterative process may help overcome some of the mental obstacles in the way of your next writing task. This brief overview of the writing process will be followed by posts exploring each step in more detail and providing strategies to tackle them. For now, if your best laid writing plans aren’t working out, don’t feel alone. Writing is messy. And that’s perfect.&lt;/p&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.liferichpublishing.com/AuthorResources/General/5-Step-Writing-Process.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The 5-Step Writing Process: From Brainstorming to Publishing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://bowenpeters.weebly.com/uploads/8/1/1/9/8119969/writing_process_detailed.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Writing Process 5 Basic Stages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ies.ed.gov/ncee/wwc/Docs/PracticeGuide/writing_pg_062612.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teaching Elementary School Students to Be Effective Writers&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

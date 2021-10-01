@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Alliance SciComm &amp; Consulting, LLC</title>
+    <link>https://alliancescc.github.io/tag/research/</link>
+      <atom:link href="https://alliancescc.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2021</copyright><lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>https://alliancescc.github.io/tag/research/</link>
+    </image>
+    
+    <item>
+      <title>Three Tips to Organize Thesis and Article Sources</title>
+      <link>https://alliancescc.github.io/post/organize_research/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/post/organize_research/</guid>
+      <description>&lt;p&gt;In the course of a literature review, you may come across hundreds of research papers that will contribute to your understanding of the field and possibly even be cited in a manuscript. So how do you keep track of these sources?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Write an annotated bibliography&lt;/strong&gt; - An annotated bibliography is going to be a list of the sources that you’ve read along with important notes to explain the source’s importance and relevance to your research. While some people do this by hand, that can be laborious, particularly when you are searching for a source after the fact. My suggestion for the modern annotated bibliography is to use a searchable format such as Word, Rmarkdown, OneNote, or EndNote, etc. That will allow you to easily re-reference a source and (re)identify sources that talk about particular concepts. Below is a list of components to include in each entry.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt; - In addition to the author(s) and year of publication, you should also make a note of the doi (so you can find it later using &lt;a href=&#34;&#34;&gt;https://doi.org/[insert doi]&lt;/a&gt;), and the filename of the pdf. The filename is especially important since it allows you to find the pdf you already have, without opening 20 files one-by-one.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt; - Are any of the methods used especially relevant to your work? This might be because you need the protocol, they are key to interpreting the data, and/or are insufficient (i.e., they provide an opportunity for you to improve the field).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt; - What are the key results and findings? What figure is central to their story?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Limitations&lt;/strong&gt; - What are the limitations of the research? What could be done differently to improve the robustness of the research?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Your thoughts&lt;/strong&gt; - What do you think about the paper? Use this as an opportunity to present your unfiltered thoughts, feelings, musings, and big ideas. That way you can find them later.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Follow up&lt;/strong&gt; - Are there any references that you should read in the future?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Keep a spreadsheet&lt;/strong&gt; - Spreadsheets are another option for keeping track of the sources you have identified in a searchable and easy to skim format. In this case, you would likely have more information about the source’s origins, citations, accessibility, etc. (See &amp;ldquo;Organizing Sources&amp;rdquo; in the resources below for a template)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use a citation management system&lt;/strong&gt; - Some citation management systems are great for keeping track of relevant sources. Mendeley is a particularly good option because you can import, read, highlight, annotate, and search for a pdf. However, it has undergone some recent changes that make it more difficult to use and transfer your references if necessary. (See the resources below for some handy web tools)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://habitsofatravellingarchaeologist.com/tips-for-organizing-sources-for-research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Organizing Sources for Research Papers&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://research.ewu.edu/c.php?g=53632&amp;amp;p=2986487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organizing Sources&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://beryliveylibrary.wordpress.com/2018/02/13/organize-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What’s the best way to organize my research?&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lifewire.com/organize-research-3483046&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organize Your Research With These Free Web Tools&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where to Start (and When to Stop) a Lit Review</title>
+      <link>https://alliancescc.github.io/post/when_to_stop/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/post/when_to_stop/</guid>
+      <description>&lt;p&gt;When it comes to a literature review for thesis and article writing, everyone has the same three questions.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Where do I start?&lt;/li&gt;
+&lt;li&gt;When do I stop?&lt;/li&gt;
+&lt;li&gt;How do I stay organized?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Today, we’ll cover some tips for answering the first two questions. Next week’s post will address organizing sources.&lt;/p&gt;
+&lt;h2 id=&#34;where-do-i-start-the-lit-review&#34;&gt;Where do I start the lit review?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The big picture&lt;/strong&gt; - It’s important to first get a sense of the overall field, and where you’ll begin with this depends on your level of experience in the field. If you are completely new to the field, then beginning with a relevant Wikipedia article may be right for you. Like academic literature, &lt;a href=&#34;https://science.sciencemag.org/content/357/6351/557.2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wikipedia entries&lt;/a&gt; have references which can point you to relevant articles in the literature. However, if you’re familiar with the field and haven’t done an in depth literature review in it  yet, then reading both a dated (at least 5 to 10 years old) and a recent (in the last 1 to 2 years) review article can help you understand the overall progress of the field and identify important articles and themes. Finally, those with high experience and knowledge in the field may choose to begin by reviewing the most recent publications using Google Scholar or a similar source.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-where-to-begin-a-literature-review-according-to-your-experience-in-the-field&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Where to begin a literature review, according to your experience in the field.&#34; srcset=&#34;
+               /post/when_to_stop/getting_started_hu814c3514c9a5683f64f0cfd0704540bd_153939_39114ecd443bc34fefdfbd9c84e6a2d3.png 400w,
+               /post/when_to_stop/getting_started_hu814c3514c9a5683f64f0cfd0704540bd_153939_392e119aa0126a61fd7c569dc183ad23.png 760w,
+               /post/when_to_stop/getting_started_hu814c3514c9a5683f64f0cfd0704540bd_153939_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://alliancescc.github.io/post/when_to_stop/getting_started_hu814c3514c9a5683f64f0cfd0704540bd_153939_39114ecd443bc34fefdfbd9c84e6a2d3.png&#34;
+               width=&#34;760&#34;
+               height=&#34;313&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Where to begin a literature review, according to your experience in the field.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;The outline&lt;/strong&gt; - Before you begin the literature review, you should have developed an &lt;a href=&#34;https://alliancescc.github.io/post/why_outline/&#34;&gt;outline&lt;/a&gt;. Now that you have an understanding of the big picture, re-evaluate the outline for missing pieces, logical flow, and potential redundancies. If things seem overwhelming, pick a topic or subtopic to begin your research at. You could either ease into the process by choosing a topic you know fairly well, or pick the area where you are the weakest and know you will need to spend the most time.&lt;/p&gt;
+&lt;h2 id=&#34;when-do-i-stop-reading-and-start-writing&#34;&gt;When do I stop reading and start writing?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Set a deadline&lt;/strong&gt; - Consider allocating a specific amount of time to the initial research stage of your writing process. This may help you be more efficient with your research time and gives a non-negotiable deadline to start putting words to paper.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Keep track&lt;/strong&gt; - Keep a log or journal where you note the search terms and databases that you have used to find sources. Have you exhausted your options? If so, consider asking a colleague or your advisor if they have additional suggestions for search terms and/or resources. If not, or you feel confident with your search thus far, then it might be time to start your first draft.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update your outline&lt;/strong&gt; - The outline should help guide your reading and information gathering, and should be updated as you work through each topic and subtopic. When each section seems to have a reasonable number of points, then you probably have enough information for the first draft.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Check your mental load&lt;/strong&gt; - Sometimes you will come across a new piece of information or perspective that will shift your thought process. Sometimes there will be so much information in your head that there doesn’t seem to be room for any more. Any time there are thoughts that seem to be swirling, then it’s time to put them to paper. Maybe this means that after spending a few days on a subtopic your brain feels overwhelmed, so you stop and draft a few paragraphs before you move on to the next. Or maybe you’ll research 50% or 90%, or even 100%, of the outline before this happens and you stop for a few days to get all of the information out of your head and onto paper. Either way, figuring out what works for you will give you a better idea of when it’s time to stop reading and start writing.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Don’t stress&lt;/strong&gt; - Remember that &lt;a href=&#34;https://alliancescc.github.io/post/writing_process/&#34;&gt;writing is iterative&lt;/a&gt; so you can always (and probably will) come back to the research stage later.&lt;/p&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://libguides.uwf.edu/c.php?g=215199&amp;amp;p=1420520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LibGuides: Literature Review: Conducting &amp;amp; Writing&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.scribbr.com/dissertation/literature-review/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Literature Review | A Complete Step-by-Step Guide&lt;/a&gt; - Good tips for review papers&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why an Outline is Necessary for Science Writing</title>
+      <link>https://alliancescc.github.io/post/why_outline/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/post/why_outline/</guid>
+      <description>&lt;p&gt;The next step in the prewriting process is the outline, but what is it and why should you make one?&lt;/p&gt;
+&lt;p&gt;At this point, you should have your topic, &lt;a href=&#34;https://alliancescc.github.io/post/central_message_narrative/&#34;&gt;central message, and narrative&lt;/a&gt;. You will build on those to create an outline, the next layer in organizing your paper before you begin to write. But aside from personal preference, why create an outline at all?&lt;/p&gt;
+&lt;p&gt;To save yourself time and effort. The outline serves several purposes that all contribute to reducing the amount of revision your first draft will need.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Reduce mental load.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At this point, there are probably a lot of bits and pieces of your paper that are floating around in your head. The outline is a perfect place to keep these for future use. Getting them out and onto paper frees up a lot of brainspace, which you’ll need for the research stage of prewriting. Additionally, the bullet point format will demonstrate the areas where you either have, or lack, expertise. And now you have a handy structure to add information &lt;em&gt;to&lt;/em&gt; during your literature review to help track your progress .&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Improve organization.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The bullet point format is also helpful for preempting repetitive information and making connections between topics to improve the overall flow of your manuscript. By outlining each section and their paragraphs first, you can ensure that each paragraph is essential in advancing your narrative and more easily identify (and rearrange) related information or logical connections to aid topic transitions. If you’re feeling stuck, there are outline prompts and resources at the bottom of the page.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Ensure advisor compatibility.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It can feel pretty defeating to write a 4,000 word first draft that your advisor either completely rearranges or scraps. Avoid that frustration for both you and your advisor by presenting them with a detailed outline. Going over the outline with your advisor can help eliminate potential problems by identifying areas that will need to be expanded, moved, or eliminated all together. Working with your advisor on the outline will also give both of you confidence in the drafting process, since you both have an understanding of what will be discussed and the order. To get the most out of the discussion, consider waiting until you have a more detailed post-literature review.&lt;/p&gt;
+&lt;p&gt;Remember, &lt;a href=&#34;https://alliancescc.github.io/post/writing_process/&#34;&gt;the writing process is messy&lt;/a&gt;, so your first outline won’t be perfect. Instead, much like your final product, it will be in constant flux until you’ve moved past the revision stage. The upside is that it’s easier to change bulleted text instead of prose!&lt;/p&gt;
+&lt;h2 id=&#34;outline-prompts&#34;&gt;Outline Prompts&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Introduction or Background&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;What information and/or context will the reader need to adequately understand everything that will be presented in the results?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is the rationale for the study? What gap is it addressing?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What key techniques were used in the study?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Results (each subsection)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;What is the rationale for the experiment, what question will it answer?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are the key points of setup that the reader needs to know to draw conclusions?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are the possible conclusions from this experiment? What would the results be for each outcome?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What were the results?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What is your conclusion based on the described results?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Discussion or Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Briefly, what were the major results and conclusions?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Put your findings in context with other studies, where do they line up or contradict?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What do these findings mean for the field at large?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are the limitations to your conclusions?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What do you want your reader to do and/or remember from your results?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://uncw.edu/ulc/documents/organizationofanacademicpaper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organization of a Traditional Academic Paper&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://writingcenter.fas.harvard.edu/pages/outlining&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Outlining&lt;/a&gt; - Good tips for organizing a review paper&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://owl.purdue.edu/owl/general_writing/the_writing_process/developing_an_outline/how_to_outline.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Outline&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

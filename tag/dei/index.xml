@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DEI | Alliance SciComm &amp; Consulting, LLC</title>
+    <link>https://alliancescc.github.io/tag/dei/</link>
+      <atom:link href="https://alliancescc.github.io/tag/dei/index.xml" rel="self" type="application/rss+xml" />
+    <description>DEI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2021</copyright><lastBuildDate>Fri, 10 Sep 2021 17:29:42 -0400</lastBuildDate>
+    <image>
+      <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
+      <title>DEI</title>
+      <link>https://alliancescc.github.io/tag/dei/</link>
+    </image>
+    
+    <item>
+      <title>Opinion: Peer Review Study Compromises Response to Gender Bias</title>
+      <link>https://alliancescc.github.io/project/opinion_peer_review_gender_bias/</link>
+      <pubDate>Fri, 10 Sep 2021 17:29:42 -0400</pubDate>
+      <guid>https://alliancescc.github.io/project/opinion_peer_review_gender_bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Write Your Diversity Statement in Four Steps</title>
+      <link>https://alliancescc.github.io/project/write-diversity-statement-four-steps/</link>
+      <pubDate>Fri, 27 Aug 2021 10:45:55 -0400</pubDate>
+      <guid>https://alliancescc.github.io/project/write-diversity-statement-four-steps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women Are Underrepresented and Receive Differential Outcomes at ASM Journals: a Six-Year Retrospective Analysis</title>
+      <link>https://alliancescc.github.io/publication/women-are-underrepresented-and-receive-differential-outcomes-at-asm-journals/</link>
+      <pubDate>Mon, 24 May 2021 11:57:51 -0400</pubDate>
+      <guid>https://alliancescc.github.io/publication/women-are-underrepresented-and-receive-differential-outcomes-at-asm-journals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7 Tips for Improving Pay Equity</title>
+      <link>https://alliancescc.github.io/project/7-tips-for-improving-pay-equity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/7-tips-for-improving-pay-equity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversify Digest</title>
+      <link>https://alliancescc.github.io/project/diversify_digest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/diversify_digest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact Report: #BlackInMicrobiology Week 2020</title>
+      <link>https://alliancescc.github.io/project/bim_social_impact_report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/bim_social_impact_report/</guid>
+      <description>&lt;p&gt;ASCC outlined and drafted a report detailing the social media impact of #BlackinMicrobiology Week 2020 for event sponsors. Our draft included an introduction and conclusion as well as a description of relevance for each analysis. Data for each analysis were collected as described below.&lt;/p&gt;
+&lt;p&gt;Analyses included:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Twitter data collection, analysis, and visualization using R. Analyzed both resonance and engagement as well as participant geography and sentiment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;YouTube data export, analysis, and visualization of post-event views and subscribers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Website data export to understand traffic patterns, including the sponsor&amp;rsquo;s page.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Event registration data export, analysis, and visualization for participant field, position, gender, and location.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A visual summary and description of the outlets that covered and/or promoted #BlackInMicrobiology Week 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Old Wives’ Tales and Garlic as an Antibiotic: Are Microbial Myths Fact or Fiction?</title>
+      <link>https://alliancescc.github.io/project/old-wives-tales-and-garlic-as-an-antibiotic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/old-wives-tales-and-garlic-as-an-antibiotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suggestions for Improving Invited Speaker Diversity To Reflect Trainee Diversity</title>
+      <link>https://alliancescc.github.io/publication/suggestions-for-improving-invited-speaker-diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/publication/suggestions-for-improving-invited-speaker-diversity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

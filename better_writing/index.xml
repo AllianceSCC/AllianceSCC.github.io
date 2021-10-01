@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing Professional Development | Alliance SciComm &amp; Consulting, LLC</title>
+    <link>https://alliancescc.github.io/better_writing/</link>
+      <atom:link href="https://alliancescc.github.io/better_writing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Writing Professional Development</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting © 2021</copyright>
+    <image>
+      <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
+      <title>Writing Professional Development</title>
+      <link>https://alliancescc.github.io/better_writing/</link>
+    </image>
+    
+  </channel>
+</rss>
