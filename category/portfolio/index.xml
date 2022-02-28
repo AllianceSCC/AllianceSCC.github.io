@@ -5,12 +5,20 @@
     <link>https://alliancescc.github.io/category/portfolio/</link>
       <atom:link href="https://alliancescc.github.io/category/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <description>Portfolio</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting, LLC © 2022</copyright><lastBuildDate>Mon, 25 Oct 2021 23:09:02 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting, LLC © 2022</copyright><lastBuildDate>Thu, 06 Jan 2022 23:07:02 -0400</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>Portfolio</title>
       <link>https://alliancescc.github.io/category/portfolio/</link>
     </image>
+    
+    <item>
+      <title>Accessing Mental Health Support at Work</title>
+      <link>https://alliancescc.github.io/project/3-strategies-to-advance-your-career/</link>
+      <pubDate>Thu, 06 Jan 2022 23:07:02 -0400</pubDate>
+      <guid>https://alliancescc.github.io/project/3-strategies-to-advance-your-career/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>4 Tips for Identifying an Employers Work Life Balance</title>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>3 Strategies to Advance Your Career</title>
-      <link>https://alliancescc.github.io/project/3-strategies-to-advance-your-career/</link>
-      <pubDate>Mon, 25 Oct 2021 23:07:02 -0400</pubDate>
-      <guid>https://alliancescc.github.io/project/3-strategies-to-advance-your-career/</guid>
+      <title>4 Tips for Identifying an Employers Work Life Balance</title>
+      <link>https://alliancescc.github.io/project/accessing-mental-health-support-at-work/</link>
+      <pubDate>Mon, 25 Oct 2021 23:09:02 -0400</pubDate>
+      <guid>https://alliancescc.github.io/project/accessing-mental-health-support-at-work/</guid>
       <description></description>
     </item>
     
@@ -65,6 +73,14 @@
       <link>https://alliancescc.github.io/publication/women-are-underrepresented-and-receive-differential-outcomes-at-asm-journals/</link>
       <pubDate>Mon, 24 May 2021 11:57:51 -0400</pubDate>
       <guid>https://alliancescc.github.io/publication/women-are-underrepresented-and-receive-differential-outcomes-at-asm-journals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grow Your Career Where You Are</title>
+      <link>https://alliancescc.github.io/project/career-advancement-where-you-are/</link>
+      <pubDate>Wed, 03 Feb 2021 23:09:02 -0400</pubDate>
+      <guid>https://alliancescc.github.io/project/career-advancement-where-you-are/</guid>
       <description></description>
     </item>
     
@@ -219,6 +235,88 @@ In Flint between 2014 and 2015, 12 people died of Legionnaires and &lt;a href=&#
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alliancescc.github.io/project/a-tale-of-two-ergots/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>How Computer Scientists are Setting the Stage to End Tuberculosis</title>
+      <link>https://alliancescc.github.io/project/setting-the-stage-to-end-tuberculosis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/setting-the-stage-to-end-tuberculosis/</guid>
+      <description>&lt;p&gt;Today, March 24th, is &lt;a href=&#34;https://www.cdc.gov/tb/worldtbday/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World TB day&lt;/a&gt;, an annual commemoration of the day in 1882 when Robert Koch (a popular fellow on [the ASM] blog) announced his discovery that &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; (Mtb) is the bacterium responsible for tuberculosis (TB). Mtb is, &lt;a href=&#34;http://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf?ua=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;according&lt;/a&gt; to the World Health Organization, “a globally established priority for which innovative new treatments are urgently needed.” That’s because nearly one third of the world population is infected with Mtb. There were 10.4 million new infections in 2015 and 1.8 million deaths due to TB worldwide. On a positive note, the TB infection rate has declined by an average of 1.5% per year since 2000, but 4-5% per year decline is needed to achieve benchmarks set by the “&lt;a href=&#34;http://www.who.int/mediacentre/factsheets/fs104/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;End TB Strategy&lt;/a&gt;.” Fittingly, the theme for the 2017 World TB Day is “Unite to End TB.”&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-colonies-of-_mycobacterium-tuberculosis_-on-an-agar-plate-appear-cream-colored-and-rough-sourcehttpscommonswikimediaorgwikifiletb_culturejpg&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Colonies of _Mycobacterium tuberculosis_ on an agar plate appear cream-colored and rough. [Source](https://commons.wikimedia.org/wiki/File:TB_Culture.jpg)&#34; srcset=&#34;
+               /project/setting-the-stage-to-end-tuberculosis/image_1_huc20e566429e7b53cf7da23c4c77a6f87_35553_00a3f11350505fa75a0ea12b293e9516.jpg 400w,
+               /project/setting-the-stage-to-end-tuberculosis/image_1_huc20e566429e7b53cf7da23c4c77a6f87_35553_c4cb5e8ba7c58a63c0f45a859184feef.jpg 760w,
+               /project/setting-the-stage-to-end-tuberculosis/image_1_huc20e566429e7b53cf7da23c4c77a6f87_35553_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://alliancescc.github.io/project/setting-the-stage-to-end-tuberculosis/image_1_huc20e566429e7b53cf7da23c4c77a6f87_35553_00a3f11350505fa75a0ea12b293e9516.jpg&#34;
+               width=&#34;700&#34;
+               height=&#34;466&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1. Colonies of &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; on an agar plate appear cream-colored and rough. &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:TB_Culture.jpg&#34;&gt;Source&lt;/a&gt;
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Collaborating to research global health threats is nothing new to scientific research and advances in research methodology, techniques and resources can take collaboration to new heights. This kind of innovation is sorely needed to study a pathogen as prolific and frustrating as Mtb. One of the conundrums facing TB research is the fact that Mtb grows incredibly slowly. Slow growth confounds both research and treatment since it can take days to weeks to grow a culture for study, a month or more to determine drug-resistance properties of a patient sample and requires months of antibiotic therapy once an infection is confirmed. At the University of Michigan, two labs have united to develop research strategies that bypass this limitation to provide new insights about TB. By using computer models, labs run by &lt;a href=&#34;https://medicine.umich.edu/dept/microbiology-immunology/denise-kirschner-phd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Denise Kirschner, Ph.D.&lt;/a&gt; and &lt;a href=&#34;http://cheresearch.engin.umich.edu/linderman/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jennifer Linderman, Ph.D., MSE&lt;/a&gt; are generating important insights into TB treatment, vaccines, and disease progression that might speed up the process of ending TB.&lt;/p&gt;
+&lt;p&gt;Known as &lt;em&gt;in silico&lt;/em&gt; research, computer modeling compiles lab measurements of immune response or bacterial properties that occur during an infection to create programs that simulate potential outcomes. By altering the conditions of the modeled infections (like antibiotic treatments), &lt;em&gt;in silico&lt;/em&gt; research can perform hundreds or thousands of complex experiments in moments, identifying new mechanisms for researchers at the bench to explore further. (Kirschner lab alum, Hayley Warsinske, Ph.D., does a much better job explaining the complexities of &lt;em&gt;in silico&lt;/em&gt; models &lt;a href=&#34;https://misciwriters.com/2016/10/04/in-silico-biology-how-math-and-computer-science-teach-us-about-life/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;introducing-the-tuberculosis-cast&#34;&gt;Introducing the tuberculosis cast&lt;/h2&gt;
+&lt;p&gt;Modeling an event as complex as a Mtb infection and the corresponding immune response requires a nuanced understanding of &lt;a href=&#34;http://www.dx.doi.org/10.3389/fmicb.2011.00002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the events&lt;/a&gt; that occur. TB infection begins with inhalation of Mtb bacilli from an infected individual by an uninfected person. In the lungs, early responders of the innate immune response known as macrophages engulf the bacteria, attempting to destroy the invaders. However, Mtb is quite durable, employing many strategies to avoid killing by macrophages that allow survival and continued growth of the bacilli, both within the lungs and even the hostile environment of macrophages. The death of the macrophages releases messenger molecules called cytokines that recruit more innate immune cells such as monocytes (immature macrophages) to continue battling Mtb.&lt;/p&gt;
+&lt;p&gt;At the same time, scout cells such as dendritic cells, collect Mtb samples and carry them to the nearest lymph node, a command center for the adaptive immune response. The dendritic cells display degraded Mtb proteins on their cell surfaces, looking for T cells that recognize the peptides. When a T cell match is found, cytokines instruct the T cell as to the type of immune response to orchestrate (inflammatory vs anti-inflammatory). The types of cytokines released by the dendritic cells and the proportion of different cytokines to the others are key in directing the T cell response. The newly activated anti-Mtb T cells then migrate to the site of infection. This process takes about 2 months and results in a Mtb-specific immune response.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-tuberculosis-granulomas-from-a-non-human-primate-top-and-computer-modeled-bottom-these-are-about-2mm-big-about-the-width-of-a-nickel-the-granuloma-wall-is-mostly-composed-of-inactive-macrophages-bright-green-bottom-since-mtb-doesnt-stain-readily-the-bacteria-olive-green-bottom-arent-readily-visible-in-the-stained-granuloma-top-other-cell-types-present-include-activated-macrophages-blue-infected-macrophages-orange-red-and-t-cells-pink-purple-light-blue-sourcehttpwwwdxdoiorg101371journalpcbi1004804-fig-3c&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Tuberculosis granulomas from a non-human primate (top) and computer modeled (bottom). These are about 2mm big, about the width of a nickel. The granuloma wall is mostly composed of inactive macrophages (bright green, bottom). Since Mtb doesn’t stain readily, the bacteria (olive green, bottom) aren’t readily visible in the stained granuloma (top). Other cell types present include: activated macrophages (blue), infected macrophages (orange, red), and T cells (pink, purple, light blue). [Source](http://www.dx.doi.org/10.1371/journal.pcbi.1004804), Fig. 3c)&#34; srcset=&#34;
+               /project/setting-the-stage-to-end-tuberculosis/image_2_huda7038dc17ea33dbfaf8897787b2eaee_1889904_29875facbb817a7d0e064a50fa33ce17.png 400w,
+               /project/setting-the-stage-to-end-tuberculosis/image_2_huda7038dc17ea33dbfaf8897787b2eaee_1889904_a88f654c29d473906e896148d8c49644.png 760w,
+               /project/setting-the-stage-to-end-tuberculosis/image_2_huda7038dc17ea33dbfaf8897787b2eaee_1889904_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://alliancescc.github.io/project/setting-the-stage-to-end-tuberculosis/image_2_huda7038dc17ea33dbfaf8897787b2eaee_1889904_29875facbb817a7d0e064a50fa33ce17.png&#34;
+               width=&#34;383&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2. Tuberculosis granulomas from a non-human primate (top) and computer modeled (bottom). These are about 2mm big, about the width of a nickel. The granuloma wall is mostly composed of inactive macrophages (bright green, bottom). Since Mtb doesn’t stain readily, the bacteria (olive green, bottom) aren’t readily visible in the stained granuloma (top). Other cell types present include: activated macrophages (blue), infected macrophages (orange, red), and T cells (pink, purple, light blue). &lt;a href=&#34;http://www.dx.doi.org/10.1371/journal.pcbi.1004804&#34;&gt;Source&lt;/a&gt;, Fig. 3c)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;When the Mtb-specific T cells respond, they produce more cytokines that stimulate (activate) the macrophages, enhancing their ability to kill intracellular Mtb. This leads to the formation of a granuloma, a cocoon of macrophages (active and inactive) around surviving bacteria that prevents them from spreading any further. In some cases, the bacteria are eventually cleared from the granulomas (sterilized). In others, latent Mtb, the bacteria survive within the granulomas but the infection remains asymptomatic. Such infections can later be reactivated, a process where Mtb escapes the granuloma causing further damage to the lungs and re-initiating the immune response.&lt;/p&gt;
+&lt;h2 id=&#34;setting-the-model-stage&#34;&gt;Setting the model stage&lt;/h2&gt;
+&lt;p&gt;According to Joey Cicchese, a graduate student in the Linderman lab, the crux of &lt;em&gt;in silico&lt;/em&gt; modeling is “translating the mechanisms that govern biological processes into computer code.” To translate these mechanisms, or events, into code, Kirschner and Linderman need numbers: how many macrophages are present and how many are active, how many bacteria are alive, what cytokines are produced and to what extent, how many T cells are recruited, how many granulomas are formed, how many are sterilized, how many latent granulomas are reactivated, etc. And all of this from different time points during an infection. For this, they rely on data from collaborators studying TB in animal models such as non-human primates (&lt;a href=&#34;http://www.mmg.pitt.edu/person/joanne-l-flynn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;JoAnne Flynn, Ph.D.&lt;/a&gt;) and rabbits (&lt;a href=&#34;http://www.phri.org/research/res_pidartois.asp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Véronique Dartois, Ph.D.&lt;/a&gt;).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“The code is then used to run simulations that mimic the biological process.” –Cicchese.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The vast number of events, molecules, and cells must all be taken into account, so the modeling occurs at different levels of magnification: the cellular level (between macrophage and bacilli or dendric cell and T cell), the tissue level (granulomas in the lung, lymph nodes, T cell migration or drug dynamics in the blood), the body level (a single virtual patient), and the population level (many virtual patients). Results from more magnified models can, in turn, be scaled up to populate the next lower magnification model.&lt;/p&gt;
+&lt;p&gt;The real power behind &lt;em&gt;in silico&lt;/em&gt; modeling, Cicchese notes, is that “during our granuloma simulations, we can keep track of bacteria and each immune cell counts at any time throughout the simulation.” He goes on to add that “because &lt;em&gt;in silico&lt;/em&gt; modeling is typically faster than most wet lab experiments (e.g., from Flynn and Dartois), it can be a way to guide experimentalists to studies that are more likely to succeed or produce interesting results.”&lt;/p&gt;
+&lt;h2 id=&#34;break-a-leg--identifying-new-hypotheses&#34;&gt;Break a leg – identifying new hypotheses&lt;/h2&gt;
+&lt;p&gt;Just in the last couple of years, the group has published at least three intriguing models or hypotheses for experimentalists to follow up on. TB treatment regimens last months and require the use of multiple antibiotics to prevent drug resistance, problems that confound research into the efficacy of new therapeutics. A &lt;a href=&#34;http://www.dx.doi.org/10.1186/s12918-015-0221-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2015 study&lt;/a&gt; in &lt;em&gt;BMC Systems Biology&lt;/em&gt; published the combination of drug pharmokinetics modeled in the blood with tissue pharmokinetics and granuloma development models. This combined model system provides the ability to look at drug dynamics at many different levels, which could predict odds of an infection developing drug resistance under different dosages and frequencies. Additionally, it could predict the efficacy of immune modulation as a treatment strategy and predict the likelihood of treatment regimens in clinical trials. If accurate, these models would improve the success of conducted trials saving time, money, and lives.&lt;/p&gt;
+&lt;p&gt;Another multi-level model &lt;a href=&#34;http://www.dx.doi.org/10.1371/journal.pcbi.1004804&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt; in &lt;em&gt;PLoS Computational Biology&lt;/em&gt; identified biomarkers capable of predicting disease outcomes. There is a spectrum of outcomes between fully active TB infection and latent TB. This spectrum is influenced by many factors including the immune response, the bacterial strain, and treatment strategy. Being able to predict disease outcome in a lengthy disease like TB would allow clinicians earlier opportunities to alter treatment and improve prognosis. Previous attempts to identify biomarkers had been unsuccessful, in part because the best biomarkers should be easily accessed (e.g., via blood draw) but the cytokines or cell types present in the blood are not necessarily indicative of what’s occurring in the lungs. Using data derived from non-human primates, their model correlated Mtb-specific T cells with positive disease outcomes. The greater the proportion of Mtb-specific T cells, the more likely Mtb was to be contained. This gives experimental researchers a direction (identifying Mtb-specific T cells) to pursue in their search for a reliable biomarker.&lt;/p&gt;
+&lt;p&gt;Mtb-specific T cells are essential to effectively containing a TB infection and if activated by vaccination, the infection could be avoided altogether. However, eliciting a strong T cell response through vaccination is tricky and only one vaccine, &lt;a href=&#34;https://www.cdc.gov/tb/topic/basics/vaccines.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BCG&lt;/a&gt;, is currently used to prevent TB. Administered in infancy, the vaccine largely loses efficacy by the time adolescence is reached. A granuloma model &lt;a href=&#34;http://www.dx.doi.org/10.3389/fmicb.2015.01477&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;reported&lt;/a&gt; in &lt;em&gt;Frontiers in Microbiology&lt;/em&gt; by Linderman and Kirschner tests the efficacy of various vaccine types, routes, and doses. While they caution that a larger system model needs to be developed to better understand what happens at the body and population level, this model would be valuable for virtual trials of new TB vaccines and predict vaccine components that will generate the desired response.&lt;/p&gt;
+&lt;p&gt;Collectively, &lt;em&gt;in silico&lt;/em&gt; research offers experimental researchers a way to conduct dress rehearsals of expensive and complex hypotheses. But as Cicchese pointed out “even though &lt;em&gt;in silico&lt;/em&gt; models produce more data, the simulated data are only as good as the experimental data.” Collaborations between computer scientists, wet lab researchers and clinicians are essential to making these systems work to improve TB research. The work pioneered by Lindermann, Kirschner, Flynn, and Dartois are just one example of how we can unite to end TB.&lt;/p&gt;
+&lt;p&gt;*Republished from ASM.org with permission&lt;/p&gt;
+</description>
     </item>
     
     <item>

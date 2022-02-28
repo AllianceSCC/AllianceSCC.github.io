@@ -5,12 +5,20 @@
     <link>https://alliancescc.github.io/tag/career/</link>
       <atom:link href="https://alliancescc.github.io/tag/career/index.xml" rel="self" type="application/rss+xml" />
     <description>Career</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting, LLC © 2022</copyright><lastBuildDate>Mon, 25 Oct 2021 23:09:02 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting, LLC © 2022</copyright><lastBuildDate>Thu, 06 Jan 2022 23:07:02 -0400</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>Career</title>
       <link>https://alliancescc.github.io/tag/career/</link>
     </image>
+    
+    <item>
+      <title>Accessing Mental Health Support at Work</title>
+      <link>https://alliancescc.github.io/project/3-strategies-to-advance-your-career/</link>
+      <pubDate>Thu, 06 Jan 2022 23:07:02 -0400</pubDate>
+      <guid>https://alliancescc.github.io/project/3-strategies-to-advance-your-career/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>4 Tips for Identifying an Employers Work Life Balance</title>
@@ -21,10 +29,10 @@
     </item>
     
     <item>
-      <title>3 Strategies to Advance Your Career</title>
-      <link>https://alliancescc.github.io/project/3-strategies-to-advance-your-career/</link>
-      <pubDate>Mon, 25 Oct 2021 23:07:02 -0400</pubDate>
-      <guid>https://alliancescc.github.io/project/3-strategies-to-advance-your-career/</guid>
+      <title>4 Tips for Identifying an Employers Work Life Balance</title>
+      <link>https://alliancescc.github.io/project/accessing-mental-health-support-at-work/</link>
+      <pubDate>Mon, 25 Oct 2021 23:09:02 -0400</pubDate>
+      <guid>https://alliancescc.github.io/project/accessing-mental-health-support-at-work/</guid>
       <description></description>
     </item>
     
@@ -49,6 +57,14 @@
       <link>https://alliancescc.github.io/publication/ten-simple-rules-to-increase-computational-skills/</link>
       <pubDate>Mon, 24 May 2021 11:58:58 -0400</pubDate>
       <guid>https://alliancescc.github.io/publication/ten-simple-rules-to-increase-computational-skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grow Your Career Where You Are</title>
+      <link>https://alliancescc.github.io/project/career-advancement-where-you-are/</link>
+      <pubDate>Wed, 03 Feb 2021 23:09:02 -0400</pubDate>
+      <guid>https://alliancescc.github.io/project/career-advancement-where-you-are/</guid>
       <description></description>
     </item>
     
