@@ -5,12 +5,153 @@
     <link>https://alliancescc.github.io/category/portfolio/</link>
       <atom:link href="https://alliancescc.github.io/category/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <description>Portfolio</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting, LLC © 2022</copyright><lastBuildDate>Thu, 06 Jan 2022 23:07:02 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting, LLC © 2022</copyright><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>Portfolio</title>
       <link>https://alliancescc.github.io/category/portfolio/</link>
     </image>
+    
+    <item>
+      <title>Carboxysome Museum Exhibit</title>
+      <link>https://alliancescc.github.io/project/carboxysome-exhibit/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/carboxysome-exhibit/</guid>
+      <description>&lt;h2 id=&#34;the-story&#34;&gt;The story&lt;/h2&gt;
+&lt;p&gt;Cyanobacteria are a common marine bacteria that are often called blue-green algae, most of us are familiar with them for their tendency to cause toxic algal blooms. &lt;a href=&#34;sites.lsa.umich.edu/vecchiarelli-lab&#34;&gt;Dr. Anthony Vecchiarelli&lt;/a&gt;, &lt;a href=&#34;twitter.com/CellfOrganized&#34;&gt;@CellfOrganized&lt;/a&gt;, studies them for their carboxysomes. Carboxysomes are icosahedron-shaped organelles packed with the carbon-fixing enzyme rubisco.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-icosahedron-sourcehttpscommonswikimediaorgwikifilezeroth_stellation_of_icosahedronpng&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Icosahedron [Source](https://commons.wikimedia.org/wiki/File:Zeroth_stellation_of_icosahedron.png).&#34; srcset=&#34;
+               /project/carboxysome-exhibit/image_1_hu1daa2b8af596655bc27b9eb7c384b3ee_7281_4d25537309c93549c776cf9791b3acd7.jpg 400w,
+               /project/carboxysome-exhibit/image_1_hu1daa2b8af596655bc27b9eb7c384b3ee_7281_1cf25e70ff5840184b5220ac94e91ba8.jpg 760w,
+               /project/carboxysome-exhibit/image_1_hu1daa2b8af596655bc27b9eb7c384b3ee_7281_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://alliancescc.github.io/project/carboxysome-exhibit/image_1_hu1daa2b8af596655bc27b9eb7c384b3ee_7281_4d25537309c93549c776cf9791b3acd7.jpg&#34;
+               width=&#34;250&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Icosahedron &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Zeroth_stellation_of_icosahedron.png&#34;&gt;Source&lt;/a&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Carboxysomes condense rubisco within a shell that allows carbon dixoide in, while blocking oxygen, which reduces rubisco&amp;rsquo;s rate of carbon fixation. Both actions increase the rate of carbon fixation to such an extent that only 2.5 mL of cyanobacteria can fix the same amount of carbon as a full-grown tree.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-electron-micrograph-of-isolated-carboxysomes-scale-bar--100-nm-sourcehttpscommonswikimediaorgwikifilecarboxysomes_emjpg-doi101371journalpbio0050144&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Electron micrograph of isolated carboxysomes. Scale bar = 100 nm. [Source](https://commons.wikimedia.org/wiki/File:Carboxysomes_EM.jpg): doi:10.1371/journal.pbio.0050144&#34; srcset=&#34;
+               /project/carboxysome-exhibit/image_2_hu2ac8f9caaf3edbd0dab86bf37bd7c35d_149617_5ea10244d089e514e40a436780c9d41f.jpg 400w,
+               /project/carboxysome-exhibit/image_2_hu2ac8f9caaf3edbd0dab86bf37bd7c35d_149617_5cf0127ea2efa71fd31363197823d02e.jpg 760w,
+               /project/carboxysome-exhibit/image_2_hu2ac8f9caaf3edbd0dab86bf37bd7c35d_149617_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://alliancescc.github.io/project/carboxysome-exhibit/image_2_hu2ac8f9caaf3edbd0dab86bf37bd7c35d_149617_5ea10244d089e514e40a436780c9d41f.jpg&#34;
+               width=&#34;250&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Electron micrograph of isolated carboxysomes. Scale bar = 100 nm. &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Carboxysomes_EM.jpg&#34;&gt;Source&lt;/a&gt;: doi:10.1371/journal.pbio.0050144
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Together with Dr. Vecchiarelli, &lt;a href=&#34;lsa.umich.edu/ummnh/about/people/mwestlak.html&#34;&gt;Melissa Westlake&lt;/a&gt;, the Assistant Director for Exhibits, and her staff, I turned the fascinating world of cyanobacteria and carboxysomes into the text for an all-ages museum exhibit at the Museum of Natural History at the University of Michigan.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I have been working with the University of Michigan Museum of Natural History in the design of an NSF-funded &amp;ldquo;People and the Planet&amp;rdquo; exhibit. The exhibit highlights the roles carbon-fixing cyanobacteria have in climate change. Dr. Ada Hagan joined our project at a point where the team was having difficulty conveying complex and disjointed scientific information that was accessible to the general public. &lt;strong&gt;Dr. Hagan&amp;rsquo;s impact on the exhibit design and direction was immediate.&lt;/strong&gt; She took these scientific findings and turned them into a concise, fun, and compelling story. With this story as a template, the project team has a very clear idea of how to build the exhibit. &lt;strong&gt;I would definitely work with Dr. Hagan again!&lt;/strong&gt;&amp;rdquo; - Dr. Vecchiarelli&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;sample-text&#34;&gt;Sample text&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Algae and the climate crisis&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Humans have put too much carbon dioxide into the air and caused climate change. Now we have scary weather events and algal blooms! Algal blooms are caused by cyanobacteria (aka blue-green algae) using the extra carbon dioxide for photosynthesis. Scientists think that cyanobacteria created the first oxygen on Earth, causing the Great Oxygenation Event (GOE) almost 2 billion years ago. The GOE both cooled the planet and allowed our oxygen-breathing ancestors to evolve. Could cyanobacteria help us again?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Key to Carboxysomes (Interactive)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Objects:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oxygen (key)&lt;/li&gt;
+&lt;li&gt;Carbon dioxide (key)&lt;/li&gt;
+&lt;li&gt;Carboxysome pore (keyhole)&lt;/li&gt;
+&lt;li&gt;Mechanism (i.e., what happens when they use the correct key)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Instructions:&lt;/em&gt; Can you use these keys to solve the carboxysome riddle?&lt;/p&gt;
+&lt;p&gt;Oxygen and carbon dioxide are chemicals, and keys, too. &lt;br&gt;
+What is it that they do? &lt;br&gt;
+Open the carboxysome pore, &lt;br&gt;
+Which is kind of like a door. &lt;br&gt;
+But only one will fit, because nature is smart, &lt;br&gt;
+And cyanobacteria keep rubisco apart &lt;br&gt;
+From the chemical that slows carbon fixation.&lt;br&gt;
+Which key fits the pore for sugar formation?&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/carboxysome-exhibit/image_3_hu80bc1259a52bc089cfa2e52341821113_123456_9122bcb65ca46f4c9c712adcf69b8a4a.jpg 400w,
+               /project/carboxysome-exhibit/image_3_hu80bc1259a52bc089cfa2e52341821113_123456_57d8af891872121fc420c9cc7f9a3c9b.jpg 760w,
+               /project/carboxysome-exhibit/image_3_hu80bc1259a52bc089cfa2e52341821113_123456_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://alliancescc.github.io/project/carboxysome-exhibit/image_3_hu80bc1259a52bc089cfa2e52341821113_123456_9122bcb65ca46f4c9c712adcf69b8a4a.jpg&#34;
+               width=&#34;512&#34;
+               height=&#34;260&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-renders-of-the-exhibit-upon-completion-credit-alison-campbelllsaumicheduummnhaboutpeoplealison-campbellhtml-exhibits-graphic-designer&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Renders of the exhibit upon completion. Credit: [Alison Campbell](lsa.umich.edu/ummnh/about/people/alison-campbell.html), Exhibits Graphic Designer.&#34; srcset=&#34;
+               /project/carboxysome-exhibit/image_4_hu96642df41ac53b5c2f49663eed39ceb0_85660_129bae4d7c90d15ae1a139b227b6ae40.jpg 400w,
+               /project/carboxysome-exhibit/image_4_hu96642df41ac53b5c2f49663eed39ceb0_85660_4aa12e91223254686a5b86bbd37af3cd.jpg 760w,
+               /project/carboxysome-exhibit/image_4_hu96642df41ac53b5c2f49663eed39ceb0_85660_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://alliancescc.github.io/project/carboxysome-exhibit/image_4_hu96642df41ac53b5c2f49663eed39ceb0_85660_129bae4d7c90d15ae1a139b227b6ae40.jpg&#34;
+               width=&#34;512&#34;
+               height=&#34;260&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Renders of the exhibit upon completion. Credit: &lt;a href=&#34;lsa.umich.edu/ummnh/about/people/alison-campbell.html&#34;&gt;Alison Campbell&lt;/a&gt;, Exhibits Graphic Designer.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>Accessing Mental Health Support at Work</title>
