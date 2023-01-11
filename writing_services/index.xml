@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing &amp; Editing Services | Alliance SciComm &amp; Consulting, LLC</title>
+    <title>SciComm Services | Alliance SciComm &amp; Consulting, LLC</title>
     <link>https://alliancescc.github.io/writing_services/</link>
       <atom:link href="https://alliancescc.github.io/writing_services/index.xml" rel="self" type="application/rss+xml" />
-    <description>Writing &amp; Editing Services</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting, LLC © 2022</copyright>
+    <description>SciComm Services</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
-      <title>Writing &amp; Editing Services</title>
+      <title>SciComm Services</title>
       <link>https://alliancescc.github.io/writing_services/</link>
     </image>
     

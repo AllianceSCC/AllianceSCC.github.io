@@ -5,7 +5,7 @@
     <link>https://alliancescc.github.io/tag/dei/</link>
       <atom:link href="https://alliancescc.github.io/tag/dei/index.xml" rel="self" type="application/rss+xml" />
     <description>DEI</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting, LLC © 2022</copyright><lastBuildDate>Fri, 10 Sep 2021 17:29:42 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Sep 2021 17:29:42 -0400</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>DEI</title>
@@ -45,10 +45,10 @@
     </item>
     
     <item>
-      <title>Diversify Digest</title>
-      <link>https://alliancescc.github.io/project/diversify_digest/</link>
+      <title>Ada&#39;s Pet Projects</title>
+      <link>https://alliancescc.github.io/project/personal-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alliancescc.github.io/project/diversify_digest/</guid>
+      <guid>https://alliancescc.github.io/project/personal-projects/</guid>
       <description></description>
     </item>
     

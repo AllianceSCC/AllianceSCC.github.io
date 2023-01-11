@@ -5,7 +5,7 @@
     <link>https://alliancescc.github.io/tag/data-analysis/</link>
       <atom:link href="https://alliancescc.github.io/tag/data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Analysis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Alliance SciComm &amp; Consulting, LLC © 2022</copyright><lastBuildDate>Mon, 24 May 2021 11:57:51 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 11:57:51 -0400</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>Data Analysis</title>
@@ -52,6 +52,14 @@
       <link>https://alliancescc.github.io/publication/suggestions-for-improving-invited-speaker-diversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alliancescc.github.io/publication/suggestions-for-improving-invited-speaker-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Faculty Job Market Collaboration</title>
+      <link>https://alliancescc.github.io/project/fjmcollab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/fjmcollab/</guid>
       <description></description>
     </item>
     
