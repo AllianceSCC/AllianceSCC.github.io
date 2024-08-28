@@ -5,7 +5,7 @@
     <link>https://alliancescc.github.io/tag/research/</link>
       <atom:link href="https://alliancescc.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>Research</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Three Tips to Organize Thesis and Article Sources</title>
       <link>https://alliancescc.github.io/post/organize_research/</link>
-      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://alliancescc.github.io/post/organize_research/</guid>
       <description>&lt;link rel=&#34;preload&#34; href=&#34;https://assets.flodesk.com/freightbigpro.css&#34; as=&#34;style&#34;&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://assets.flodesk.com/freightbigpro.css&#34;&gt;
@@ -954,10 +954,10 @@
   });
 &lt;/script&gt;
 
-&lt;p&gt;In the course of a literature review, you may come across hundreds of research papers that will contribute to your understanding of the field and possibly even be cited in a manuscript. So how do you keep track of these sources?&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Write an annotated bibliography&lt;/strong&gt; &amp;mdash; An annotated bibliography is going to be a list of the sources that you’ve read along with important notes to explain the source’s importance and relevance to your research. While some people do this by hand, that can be laborious, particularly when you are searching for a source after the fact. My suggestion for the modern annotated bibliography is to use a searchable format such as Word, Rmarkdown, OneNote, or EndNote, etc. That will allow you to easily re-reference a source and (re)identify sources that talk about particular concepts. Below is a list of components to include in each entry (and &lt;a href=&#34;https://alliancescc.github.io/uploads/Annotated_bibliography.pdf&#34;&gt;here&amp;rsquo;s a worksheet&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Whether for a dissertation, thesis, or class research paper, a literature review may expose you to hundreds of research papers that could contribute to your understanding of the field and possibly even be cited in a manuscript. So how do you keep track of these sources?&lt;/p&gt;
+&lt;p&gt;Here, I&amp;rsquo;ll describe three options for you to consider: keep an annotated bibliography, use spreadsheets, and use a citation management software.&lt;/p&gt;
+&lt;h1 id=&#34;tip-1-keep-an-annotated-bibliography&#34;&gt;Tip 1: Keep an Annotated Bibliography&lt;/h1&gt;
+&lt;p&gt;An annotated bibliography is going to be a list of the sources that you’ve read along with important notes to explain the source’s importance and relevance to your research. While some people do this by hand, that can be laborious, particularly when you are searching for a source after the fact. My suggestion for the modern annotated bibliography is to use a searchable format such as Word, Rmarkdown, OneNote, EndNote, etc. These options allow you to easily re-reference a source and (re)identify sources that talk about particular concepts. To maximize your annotated bibliography, there are several key components to include in each entry (and &lt;a href=&#34;https://alliancescc.github.io/uploads/Annotated_bibliography.pdf&#34;&gt;here&amp;rsquo;s a worksheet&lt;/a&gt;):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Citation&lt;/strong&gt; &amp;mdash; In addition to the author(s) and year of publication, you should also make a note of the doi (so you can find it later using &lt;a href=&#34;&#34;&gt;https://doi.org/[insert doi]&lt;/a&gt;), and the filename of the pdf. The filename is especially important since it allows you to find the pdf you already have, without opening 20 files one-by-one.&lt;/p&gt;
@@ -978,27 +978,33 @@
 &lt;p&gt;&lt;strong&gt;Follow up&lt;/strong&gt; &amp;mdash; Are there any references that you should read in the future?&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Keep a spreadsheet&lt;/strong&gt; &amp;mdash; Spreadsheets are another option for keeping track of the sources you have identified in a searchable and easy to skim format. In this case, you would likely have more information about the source’s origins, citations, accessibility, etc. (See &amp;ldquo;Organizing Sources&amp;rdquo; in the resources below for a template)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Use a citation management system&lt;/strong&gt; &amp;mdash; Some citation management systems are great for keeping track of relevant sources. Mendeley is a particularly good option because you can import, read, highlight, annotate, and search for a pdf. However, it has undergone some recent changes that make it more difficult to use and transfer your references if necessary. (See the resources below for some handy web tools)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h1 id=&#34;tip-2-keep-a-spreadsheet&#34;&gt;Tip 2: Keep a Spreadsheet&lt;/h1&gt;
+&lt;p&gt;Spreadsheets are another great option for keeping track of the sources you&amp;rsquo;ve identified in a searchable and easy to skim format. In this case, you would likely include more granular information about the source’s origins, citations, accessibility, etc. However, what you include may depend on how you plan to use the document.&lt;/p&gt;
+&lt;p&gt;For example, Dr. Raul Pacheco-Vega uses a &lt;a href=&#34;https://www.raulpacheco.org/2016/06/synthesizing-different-bodies-of-work-in-your-literature-review-the-conceptual-synthesis-excel-dump-technique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Conceptual Synthesis Excel Dump&amp;rdquo;&lt;/a&gt;. In addition to basic citation information, Dr. Pacheco-Vega includes columns to capture his thoughts on each references as well as cross references and potential quotations. It&amp;rsquo;s very much like a horizontally organized annotated bibliography.&lt;/p&gt;
+&lt;p&gt;For a more basic compilation of sources, Eastern Washington University has a &lt;a href=&#34;https://research.ewu.edu/c.php?g=53632&amp;amp;p=2986487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sample chart&lt;/a&gt; that you can use to build your own and Kathleen Clarke &lt;a href=&#34;https://www.insidehighered.com/blogs/gradhacker/organizing-your-literature-spreadsheet-style#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;describes&lt;/a&gt; a slightly more intricate method that links spreadsheet entries to easy file identification. More visual, or more easily overwhelmed, writers might consider adding a color-coordination system to their spreadsheets.&lt;/p&gt;
+&lt;h1 id=&#34;tip-3-use-a-citation-management-system&#34;&gt;Tip 3: Use a Citation Management System&lt;/h1&gt;
+&lt;p&gt;Citation management systems can be great tools for keeping track of relevant sources. I used to recommend Mendeley, however, it was put behind a paywall and underwent changes that make it more difficult to use and export your references if needed.&lt;/p&gt;
+&lt;p&gt;The open source (free) tool, &lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt; is now one of the best options available for tracking and organizing sources. Not only does it have a browser extension to directly import references as you find them, it has an extensive reference and bibliography generation system. These can be easily formatted for text editors and used directly with Word, LibreOffice, and Google Docs. Zotero also features some handy organization and collaboration tools.&lt;/p&gt;
+&lt;p&gt;The more visual academics might want to consider &lt;a href=&#34;https://www.diigo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diigo&lt;/a&gt;. With both free and paid options, this program features tools to tag, archive, annotate, organize, and even share your online research (much like Zotero does). The most innovative tool, however, is one that enables you to sort your sources into a structured outline, potentially allowing you to more easily identify weak or understudied parts of your research.&lt;/p&gt;
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://habitsofatravellingarchaeologist.com/tips-for-organizing-sources-for-research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Organizing Sources for Research Papers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://beryliveylibrary.wordpress.com/2018/02/13/organize-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What’s the Best Way to Organize My Research?&lt;/a&gt; | A librarian breaks down how to approach and organize your literature review process.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://research.ewu.edu/c.php?g=53632&amp;amp;p=2986487&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organizing Sources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.insidehighered.com/blogs/gradhacker/organizing-your-literature-spreadsheet-style#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organizing Your Literature: Spreadsheet Style&lt;/a&gt; | Describes an adaptable, nested spreadsheet organization system and how it can link to and help organize your file storage.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://beryliveylibrary.wordpress.com/2018/02/13/organize-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What’s the best way to organize my research?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://habitsofatravellingarchaeologist.com/tips-for-organizing-sources-for-research-papers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Organizing Sources for Research Papers&lt;/a&gt; | A basic review of the types of sources, how to get your literature review started, and some potential ways to stay organized.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.lifewire.com/organize-research-3483046&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Organize Your Research With These Free Web Tools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=JLhbTnmdgvo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4 Must-Have Tools to Find and Organize Research Articles for a Literature Review&lt;/a&gt; | A video with tips on using Elicit, Research Rabbit, Notion, and Zotero together to gather and organize your research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.lifewire.com/organize-research-3483046&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15 Best Free Web Tools to Organize Your Research&lt;/a&gt; | Broken into two lists of web tools: one for research and study and the second for writing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=bch9JLF70pc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to Organize Research Articles&lt;/a&gt; | A non-traditional approach using a knowledge monetization platform (Kahana) to organize and share your academic research (for free).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>

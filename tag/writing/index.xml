@@ -5,12 +5,990 @@
     <link>https://alliancescc.github.io/tag/writing/</link>
       <atom:link href="https://alliancescc.github.io/tag/writing/index.xml" rel="self" type="application/rss+xml" />
     <description>Writing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 09:01:57 -0400</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>Writing</title>
       <link>https://alliancescc.github.io/tag/writing/</link>
     </image>
+    
+    <item>
+      <title>The &#39;Jigsaw&#39; Method for Scientific Writing</title>
+      <link>https://alliancescc.github.io/post/draft_methods_jigsaw/</link>
+      <pubDate>Wed, 28 Aug 2024 09:01:57 -0400</pubDate>
+      <guid>https://alliancescc.github.io/post/draft_methods_jigsaw/</guid>
+      <description>&lt;link rel=&#34;preload&#34; href=&#34;https://assets.flodesk.com/freightbigpro.css&#34; as=&#34;style&#34;&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://assets.flodesk.com/freightbigpro.css&#34;&gt;
+&lt;link rel=&#34;preload&#34; href=&#34;https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i&amp;display=swap&#34; as=&#34;style&#34;&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i&amp;display=swap&#34;&gt;
+&lt;style&gt;
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 *,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 *::before,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 *::after {
+    box-sizing: border-box;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [tabindex=&#34;-1&#34;]:focus {
+    outline: none !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 h1,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 h2,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 h3,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 h4,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 h5,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 h6 {
+    margin-top: 0;
+    margin-bottom: 0.7em;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 ol,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 ul,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 dl {
+    margin-top: 0;
+    margin-bottom: 1.4rem;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 ol ol,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 ul ul,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 ol ul,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 ul ol {
+    margin-bottom: 0;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 b,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 strong {
+    font-weight: bolder;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 small {
+    font-size: 80%;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 sub,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 sup {
+    position: relative;
+    font-size: 75%;
+    line-height: 0;
+    vertical-align: baseline;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 sub {
+    bottom: -0.25em;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 sup {
+    top: -0.5em;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 {
+    color: #000000;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 a:hover {
+    color: #4396fd;
+    text-decoration: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 img {
+    border-style: none;
+    vertical-align: middle;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 svg:not(:root) {
+    overflow: hidden;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 area,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 button,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [role=&#34;button&#34;],
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 input,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 label,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 select,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 summary,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 textarea {
+    touch-action: manipulation;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 label {
+    display: inline-block;
+    font-weight: bolder;
+    margin-bottom: 0.7rem;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 button:focus {
+    outline: 1px dotted;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 input,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 button,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 select,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 optgroup,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 textarea {
+    margin: 0;
+    font-size: inherit;
+    font-family: inherit;
+    line-height: inherit;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 button,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 input {
+    overflow: visible;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 button,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 select {
+    text-transform: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 button,
+  html[data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;button&#34;],
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;reset&#34;],
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;submit&#34;] {
+    -webkit-appearance: button;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 button::-moz-focus-inner,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;button&#34;]::-moz-focus-inner,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;reset&#34;]::-moz-focus-inner,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;submit&#34;]::-moz-focus-inner {
+    padding: 0;
+    border-style: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 input[type=&#34;radio&#34;],
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 input[type=&#34;checkbox&#34;] {
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 input[type=&#34;date&#34;],
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 input[type=&#34;time&#34;],
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 input[type=&#34;datetime-local&#34;],
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 input[type=&#34;month&#34;] {
+    -webkit-appearance: listbox;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 textarea {
+    resize: vertical;
+    overflow: auto;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;number&#34;]::-webkit-inner-spin-button,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;number&#34;]::-webkit-outer-spin-button {
+    height: auto;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;search&#34;] {
+    outline-offset: -2px;
+    -webkit-appearance: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;search&#34;]::-webkit-search-cancel-button,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [type=&#34;search&#34;]::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 ::-webkit-file-upload-button {
+    font: inherit;
+    -webkit-appearance: button;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 [hidden] {
+    display: none !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block;
+    opacity: 0;
+    outline: 0;
+    z-index: -1;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.4);
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-transition: opacity 0.4s, visibility 0.4s;
+    transition: opacity 0.4s, visibility 0.4s;
+    visibility: hidden;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal.fd-is-open {
+    opacity: 1;
+    z-index: 1040;
+    visibility: visible;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal__dialog {
+    width: -webkit-calc(100% - 60px);
+    width: calc(100% - 60px);
+    margin: 30px auto;
+    display: -webkit-box;
+    display: flex;
+    position: relative;
+    max-width: 750px;
+    min-height: -webkit-calc(100% - 60px);
+    min-height: calc(100% - 60px);
+    -webkit-box-align: center;
+    align-items: center;
+    pointer-events: none;
+    -webkit-box-pack: center;
+    justify-content: center;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal__content {
+    width: 100%;
+    border: 0 solid #d7d7d7;
+    display: -webkit-box;
+    display: flex;
+    outline: 0;
+    position: relative;
+    background: #fff;
+    box-shadow: 6.5px 11.3px 19px 0 rgba(0, 0, 0, 0.11);
+    border-radius: 0;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    pointer-events: auto;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal__body {
+    -webkit-box-flex: 1;
+    flex: 1 1 auto;
+    padding: 0;
+    position: relative;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal__close {
+    top: 0;
+    color: #000;
+    right: 0;
+    width: 40px;
+    border: 0;
+    cursor: pointer;
+    height: 40px;
+    margin: 0;
+    display: -webkit-box;
+    display: flex;
+    padding: 0;
+    z-index: 9999;
+    position: absolute;
+    background: transparent;
+    -webkit-box-align: center;
+    align-items: center;
+    line-height: 1;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-appearance: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal__close svg {
+    color: inherit;
+    width: 10px;
+    height: auto;
+    display: block;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal__close:hover,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal__close:focus,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal__close:active {
+    outline: none;
+  }
+
+  @media (max-width: 575px) {
+    [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-modal__dialog {
+      width: -webkit-calc(100% - 30px);
+      width: calc(100% - 30px);
+      margin: 15px auto;
+      min-height: -webkit-calc(100% - 30px);
+      min-height: calc(100% - 30px);
+    }
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-control {
+    width: 100%;
+    display: block;
+    outline: none;
+    position: relative;
+    -webkit-appearance: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-control:focus {
+    outline: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-control::-webkit-input-placeholder {
+    color: transparent !important;
+    opacity: 0 !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-control::-moz-placeholder {
+    color: transparent !important;
+    opacity: 0 !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-control:-ms-input-placeholder {
+    color: transparent !important;
+    opacity: 0 !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-control::placeholder {
+    color: transparent !important;
+    opacity: 0 !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-label {
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    pointer-events: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-control:not(:-moz-placeholder-shown)+.fd-form-label {
+    opacity: 0;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-control:not(:-ms-input-placeholder)+.fd-form-label {
+    opacity: 0;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-control:not(:placeholder-shown)+.fd-form-label {
+    opacity: 0;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-description {
+    margin: 5px 0 0 0;
+    font-size: 0.8em;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-feedback {
+    margin: 5px 0 0 0;
+    font-size: 0.8em;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-group {
+    margin: 0 0 15px;
+    position: relative;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-group.fd-has-success .fd-form-feedback,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-group.fd-has-success .fd-form-check {
+    color: #02dba8 !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-group.fd-has-success .fd-form-control {
+    color: #02dba8 !important;
+    border-color: #02dba8 !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-group.fd-has-success .fd-form-feedback {
+    display: block;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-group.fd-has-error .fd-form-feedback,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-group.fd-has-error .fd-form-check {
+    color: #eb3d3b !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-group.fd-has-error .fd-form-control {
+    color: #eb3d3b !important;
+    border-color: #eb3d3b !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-group.fd-has-error .fd-form-feedback {
+    display: block;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-btn {
+    cursor: pointer;
+    display: -webkit-inline-box;
+    display: inline-flex;
+    outline: none;
+    max-width: 100%;
+    font-style: normal;
+    text-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-shadow: none;
+    white-space: normal;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-btn:hover {
+    outline: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-btn:focus {
+    outline: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-btn:disabled {
+    opacity: 0.8;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-check {
+    cursor: pointer;
+    margin: 0;
+    display: -webkit-box;
+    display: flex;
+    position: relative;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 30px;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-check__input {
+    top: 0;
+    left: 0;
+    width: 18px;
+    height: 18px;
+    opacity: 0;
+    z-index: -1;
+    position: absolute;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-check__checkmark {
+    top: 0;
+    left: 0;
+    width: 18px;
+    border: 1px solid #c4c4c4;
+    height: 18px;
+    display: block;
+    position: absolute;
+    background: #ffffff;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-check__label {
+    margin: 0;
+    font-size: 14px;
+    text-align: left;
+    word-break: break-word;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.01em;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-check__input:checked+.fd-form-check__checkmark::after {
+    opacity: 1;
+    z-index: 1;
+    visibility: visible;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-check__checkmark::after {
+    top: -1px;
+    left: -1px;
+    width: 18px;
+    height: 18px;
+    content: &#34;&#34;;
+    display: block;
+    opacity: 0;
+    z-index: -1;
+    position: absolute;
+    -webkit-transition: opacity 0.4s, z-index 0.4s;
+    transition: opacity 0.4s, z-index 0.4s;
+    visibility: inherit;
+    background-size: 12px;
+    background-image: url(&#34;data:image/svg+xml,%3csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; fill=&#39;black&#39; width=&#39;12&#39; height=&#39;10&#39; viewBox=&#39;0 0 11.51 8.2&#39;%3e%3ctitle%3echeck%3c/title%3e%3cpath d=&#39;M4.05%2c8.2A.74.74%2c0%2c0%2c1%2c3.52%2c8L.22%2c4.68A.75.75%2c0%2c0%2c1%2c1.28%2c3.62l3.3%2c3.3A.75.75%2c0%2c0%2c1%2c4.58%2c8%2c.74.74%2c0%2c0%2c1%2c4.05%2c8.2Z&#39;/%3e%3cpath d=&#39;M4.06%2c8.2A.74.74%2c0%2c0%2c1%2c3.53%2c8a.75.75%2c0%2c0%2c1%2c0-1.06l6.7-6.7a.75.75%2c0%2c0%2c1%2c1.06%2c1.06L4.59%2c8A.74.74%2c0%2c0%2c1%2c4.06%2c8.2Z&#39;/%3e%3c/svg%3e&#34;);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-check__input:focus {
+    outline: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-content {
+    position: relative;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-has-success .fd-form-content {
+    display: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-has-captcha .fd-form-content&gt;*:not(.fd-form-captcha) {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-captcha {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: flex;
+    position: absolute;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-success {
+    display: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-has-success .fd-form-success {
+    display: block;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-success&gt;*:last-child {
+    margin-bottom: 0;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-error {
+    display: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-has-error .fd-form-error {
+    display: block;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-error&gt;*:last-child {
+    margin-bottom: 0;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-focus-visible,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-check__input.fd-focus-visible+.fd-form-check__checkmark {
+    outline: none;
+    box-shadow: 0 0 0 2px #fff, 0 0 0 6px #000 !important;
+    -webkit-transition: box-shadow 0.2s !important;
+    transition: box-shadow 0.2s !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-focus-visible,
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .fd-form-check__input.fd-focus-visible+.fd-form-check__checkmark {
+    outline: none;
+    box-shadow: 0 0 0 2px #ffffff, 0 0 0 6px #000 !important;
+    -webkit-transition: box-shadow 0.2s !important;
+    transition: box-shadow 0.2s !important;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__modal {
+    background: rgba(255, 255, 255, 0.44);
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__modal-dialog {
+    max-width: 620px;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__modal-content {
+    background: #ffffff;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__modal-close {
+    color: #ffffff;
+    position: absolute !important;
+    font-size: 10px;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__wrapper {
+    display: -webkit-box;
+    display: flex;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__form {
+    color: #00aad4;
+    width: 100%;
+    margin: 0;
+    padding: 70px;
+    font-size: 17px;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    line-height: 1.1999999999999997;
+    letter-spacing: 0.4px;
+    text-transform: none;
+  }
+
+  @media (max-width: 767px) {
+    [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__form {
+      padding: 25px;
+      word-wrap: anywhere;
+      word-break: break-word;
+      white-space: normal;
+      overflow-wrap: break-word;
+    }
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__title {
+    color: #000000;
+    width: 100%;
+    margin: 0 0 25px 0;
+    display: block;
+    font-size: 68px;
+    text-align: center;
+    font-family: freight-big-pro, serif;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 0px;
+    text-transform: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__title * {
+    line-height: inherit;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__subtitle {
+    width: 100%;
+    margin: 0 0 30px 0;
+    display: block;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__subtitle * {
+    line-height: inherit;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__fields {
+    margin: 0 0 15px;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__fields&gt;*:last-child {
+    margin-bottom: 0;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__field {
+    font-size: 12px;
+    text-align: left;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    letter-spacing: 0.8px;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__control {
+    color: #00aad4;
+    border: 1px solid #00aad4;
+    height: 46px;
+    padding: 12px 20px;
+    font-size: 12px;
+    background: #ececec;
+    text-align: left;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    line-height: 20px;
+    border-radius: 23px;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__label {
+    color: #00aad4;
+    border: 1px solid transparent;
+    padding: 12px 20px;
+    font-size: 12px;
+    text-align: left;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference {
+    margin: 30px 0;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+  }
+
+  @media (max-width: 767px) {
+    [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      flex-direction: column;
+    }
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference-title {
+    color: #00aad4;
+    width: 100%;
+    margin: 0 0 30px 0;
+    display: block;
+    font-size: 25px;
+    text-align: center;
+    font-family: freight-big-pro, serif;
+    font-weight: 700;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    text-transform: none;
+  }
+
+  @media (max-width: 767px) {
+    [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference-title {
+      margin: 0 0 30px;
+    }
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference-title * {
+    line-height: inherit;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference-control {
+    width: 100%;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference-list {
+    width: -webkit-calc(100% + 24px);
+    width: calc(100% + 24px);
+    margin: -6px -12px;
+    display: -webkit-box;
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+  }
+
+  @media (max-width: 767px) {
+    [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference-list {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      flex-direction: column;
+    }
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference-item {
+    -webkit-box-flex: 0;
+    flex: 0 0 50%;
+    padding: 6px 12px;
+  }
+
+  @media (max-width: 767px) {
+    [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__preference-item {
+      -webkit-box-flex: 1;
+      flex: 1 1;
+      max-width: 100%;
+    }
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__form-check .fd-form-check__input {
+    top: 3px;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__form-check .fd-form-check__checkmark {
+    top: 3px;
+    border-radius: 3px;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__form-check .fd-form-check__label {
+    color: #00aad4;
+    font-size: 15px;
+    min-height: 24px;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    letter-spacing: 0px;
+    text-transform: none;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__form-check .fd-form-check__checkmark::after {
+    background-size: 12px;
+    background-image: url(&#34;data:image/svg+xml,%3csvg xmlns=&#39;http://www.w3.org/2000/svg&#39; fill=&#39;black&#39; width=&#39;12&#39; height=&#39;10&#39; viewBox=&#39;0 0 11.51 8.2&#39;%3e%3ctitle%3echeck%3c/title%3e%3cpath d=&#39;M4.05%2c8.2A.74.74%2c0%2c0%2c1%2c3.52%2c8L.22%2c4.68A.75.75%2c0%2c0%2c1%2c1.28%2c3.62l3.3%2c3.3A.75.75%2c0%2c0%2c1%2c4.58%2c8%2c.74.74%2c0%2c0%2c1%2c4.05%2c8.2Z&#39;/%3e%3cpath d=&#39;M4.06%2c8.2A.74.74%2c0%2c0%2c1%2c3.53%2c8a.75.75%2c0%2c0%2c1%2c0-1.06l6.7-6.7a.75.75%2c0%2c0%2c1%2c1.06%2c1.06L4.59%2c8A.74.74%2c0%2c0%2c1%2c4.06%2c8.2Z&#39;/%3e%3c/svg%3e&#34;);
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__button {
+    color: #ffffff;
+    width: 100%;
+    border: 1px solid transparent;
+    display: block;
+    padding: 12px 4px;
+    font-size: 21px;
+    background: #00aad4;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    line-height: 20px;
+    border-radius: 11.5px;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+  }
+
+  [data-ff-el=&#34;root&#34;].ff-61c280aed2fc90968d6f48e4 .ff-61c280aed2fc90968d6f48e4__error {
+    margin: 15px 0 0 0;
+  }
+&lt;/style&gt;
+
+&lt;div class=&#34;ff-61c280aed2fc90968d6f48e4&#34; data-ff-el=&#34;root&#34; data-ff-version=&#34;3&#34; data-ff-type=&#34;popup&#34; data-ff-name=&#34;popupNoImage&#34;&gt;
+  
+  &lt;div data-ff-el=&#34;config&#34; data-ff-config=&#34;eyJ0cmlnZ2VyIjp7Im1vZGUiOiJpbW1lZGlhdGVseSIsInZhbHVlIjowfSwib25TdWNjZXNzIjp7Im1vZGUiOiJtZXNzYWdlIiwibWVzc2FnZSI6IiIsInJlZGlyZWN0VXJsIjoiIn0sImNvaSI6dHJ1ZSwic2hvd0ZvclJldHVyblZpc2l0b3JzIjpmYWxzZSwibm90aWZpY2F0aW9uIjpmYWxzZX0=&#34; style=&#34;display: none&#34;&gt;&lt;/div&gt;
+  
+  &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__modal fd-modal&#34; data-ff-el=&#34;modal&#34;&gt;
+    &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__modal-dialog fd-modal__dialog&#34; data-ff-el=&#34;modal-dialog&#34;&gt;
+      &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__modal-content fd-modal__content&#34; data-ff-el=&#34;modal-content&#34;&gt;
+        &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__modal-body fd-modal__body&#34; data-ff-el=&#34;modal-body&#34;&gt;
+          &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__wrapper&#34;&gt;
+            &lt;form class=&#34;ff-61c280aed2fc90968d6f48e4__form&#34; action=&#34;https://form.flodesk.com/forms/61c280aed2fc90968d6f48e4/submit&#34; method=&#34;post&#34; data-ff-el=&#34;form&#34;&gt;
+              &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__title&#34;&gt;
+                &lt;div&gt;
+                  &lt;div data-paragraph=&#34;true&#34;&gt;Join the ASCC &lt;/div&gt;
+                  &lt;div data-paragraph=&#34;true&#34;&gt;mailing list.&lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__subtitle&#34;&gt;
+                &lt;div&gt;
+                  &lt;div data-paragraph=&#34;true&#34;&gt;Be the first to know about new services, resources,&lt;/div&gt;
+                  &lt;div data-paragraph=&#34;true&#34;&gt;and exclusive offers.&lt;/div&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__content fd-form-content&#34; data-ff-el=&#34;content&#34;&gt;
+                &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__fields&#34; data-ff-el=&#34;fields&#34;&gt;
+                  
+
+                  &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__field fd-form-group&#34;&gt;
+                    &lt;input class=&#34;ff-61c280aed2fc90968d6f48e4__control fd-form-control&#34; type=&#34;text&#34; name=&#34;firstName&#34; placeholder=&#34;First name&#34; data-ff-tab=&#34;firstName::email&#34; /&gt;
+                    &lt;label class=&#34;ff-61c280aed2fc90968d6f48e4__label fd-form-label&#34;&gt;First name&lt;/label&gt;
+                  &lt;/div&gt;
+
+
+                  &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__field fd-form-group&#34;&gt;
+                    &lt;input class=&#34;ff-61c280aed2fc90968d6f48e4__control fd-form-control&#34; type=&#34;text&#34; name=&#34;email&#34; placeholder=&#34;Email&#34; data-ff-tab=&#34;email:firstName:option1&#34; required /&gt;
+                    &lt;label class=&#34;ff-61c280aed2fc90968d6f48e4__label fd-form-label&#34;&gt;Email&lt;/label&gt;
+                  &lt;/div&gt;
+
+                  &lt;input type=&#34;text&#34; name=&#34;confirm_email_address&#34; style=&#34;display: none&#34; /&gt;
+                  
+                &lt;/div&gt;
+
+                &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__preference&#34;&gt;
+                  &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__preference-title&#34;&gt;
+                    &lt;div&gt;
+                      &lt;div data-paragraph=&#34;true&#34;&gt;&lt;span style=&#34;font-size:29px;&#34;&gt;Are you faculty or a trainee?&lt;/span&gt;&lt;/div&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                  &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__preference-control&#34;&gt;
+                    &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__preference-list&#34;&gt;
+                      
+
+                      &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__preference-item&#34;&gt;
+                        &lt;label class=&#34;ff-61c280aed2fc90968d6f48e4__form-check fd-form-check&#34;&gt;
+                          &lt;input type=&#34;checkbox&#34; name=&#34;preferences&#34; class=&#34;fd-form-check__input&#34; value=&#34;option1&#34; data-ff-tab=&#34;option1:email:option2&#34; /&gt;
+                          &lt;span class=&#34;fd-form-check__checkmark&#34;&gt;&lt;/span&gt;
+                          &lt;span class=&#34;fd-form-check__label&#34;&gt;Faculty&lt;/span&gt;
+                        &lt;/label&gt;
+                      &lt;/div&gt;
+
+
+                      &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__preference-item&#34;&gt;
+                        &lt;label class=&#34;ff-61c280aed2fc90968d6f48e4__form-check fd-form-check&#34;&gt;
+                          &lt;input type=&#34;checkbox&#34; name=&#34;preferences&#34; class=&#34;fd-form-check__input&#34; value=&#34;option2&#34; data-ff-tab=&#34;option2:option1:submit&#34; /&gt;
+                          &lt;span class=&#34;fd-form-check__checkmark&#34;&gt;&lt;/span&gt;
+                          &lt;span class=&#34;fd-form-check__label&#34;&gt;Grad student or Postdoc&lt;/span&gt;
+                        &lt;/label&gt;
+                      &lt;/div&gt;
+
+                      
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__footer&#34; data-ff-el=&#34;footer&#34;&gt;
+                  &lt;button type=&#34;submit&#34; class=&#34;ff-61c280aed2fc90968d6f48e4__button fd-btn&#34; data-ff-el=&#34;submit&#34; data-ff-tab=&#34;submit&#34;&gt;
+                    &lt;span&gt;Add me&lt;/span&gt;
+                  &lt;/button&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__success fd-form-success&#34; data-ff-el=&#34;success&#34;&gt;
+                &lt;div data-paragraph=&#34;true&#34;&gt;Thanks! Keep an eye on your inbox for updates.&lt;/div&gt;
+              &lt;/div&gt;
+              &lt;div class=&#34;ff-61c280aed2fc90968d6f48e4__error fd-form-error&#34; data-ff-el=&#34;error&#34;&gt;&lt;/div&gt;
+            &lt;/form&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;button class=&#34;ff-61c280aed2fc90968d6f48e4__modal-close fd-modal__close&#34; data-ff-el=&#34;modal-close&#34;&gt;
+
+          &lt;svg style=&#34;width: 1em&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 14.51 14.51&#34;&gt;
+            &lt;line x1=&#34;1&#34; y1=&#34;1&#34; x2=&#34;13.51&#34; y2=&#34;13.51&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34; /&gt;
+            &lt;line x1=&#34;13.51&#34; y1=&#34;1&#34; x2=&#34;1&#34; y2=&#34;13.51&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34; /&gt;
+          &lt;/svg&gt;
+
+        &lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+  (function(w, d, t, h, s, n) {
+    w.FlodeskObject = n;
+    var fn = function() {
+      (w[n].q = w[n].q || []).push(arguments);
+    };
+    w[n] = w[n] || fn;
+    var f = d.getElementsByTagName(t)[0];
+    var v = &#39;?v=&#39; + Math.floor(new Date().getTime() / (120 * 1000)) * 60;
+    var sm = d.createElement(t);
+    sm.async = true;
+    sm.type = &#39;module&#39;;
+    sm.src = h + s + &#39;.mjs&#39; + v;
+    f.parentNode.insertBefore(sm, f);
+    var sn = d.createElement(t);
+    sn.async = true;
+    sn.noModule = true;
+    sn.src = h + s + &#39;.js&#39; + v;
+    f.parentNode.insertBefore(sn, f);
+  })(window, document, &#39;script&#39;, &#39;https://assets.flodesk.com&#39;, &#39;/universal&#39;, &#39;fd&#39;);
+&lt;/script&gt;
+&lt;script&gt;
+  window.fd(&#39;form:handle&#39;, {
+    formId: &#39;[61c280aed2fc90968d6f48e4]&#39;,
+    rootEl: &#39;.ff-61c280aed2fc90968d6f48e4&#39;,
+  });
+&lt;/script&gt;
+
+&lt;p&gt;Is there a right way to put a puzzle together? What about drafting a paper?&lt;/p&gt;
+&lt;p&gt;Writing a paper or article is much like putting a jigsaw puzzle together, both are composed of many smaller pieces. And like a puzzle, it doesn’t matter how or where you start. What matters is that it gets done.&lt;/p&gt;
+&lt;p&gt;The jigsaw writing method is an approach to writing that encourages you to break the manuscript down into smaller sections or topics and start where you feel inspired&lt;/p&gt;
+&lt;h2 id=&#34;how-does-the-jigsaw-method-work&#34;&gt;How does the jigsaw method work?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;After you’ve created an outline for your manuscript, pick a section or topic of the outline to begin drafting.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Write until you finish the section, your writing session, or run out of things to say.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Review the outline and pick another place to begin writing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rinse and repeat until your writing session is over and/or you’ve completed your first draft.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;when-should-i-use-the-jigsaw-method-for-drafting&#34;&gt;When should I use the jigsaw method for drafting?&lt;/h2&gt;
+&lt;p&gt;Whenever you feel inspired!&lt;/p&gt;
+&lt;p&gt;Perhaps you’ve been mulling over the implications or limitations of your research. If so, it makes more sense to draft the relevant portion of the discussion instead of forcing yourself to start at the beginning or even where you left off last time.&lt;/p&gt;
+&lt;p&gt;While the introduction is the first section of the outline, you don’t have to write it first. Drafting the methods or results is often a great place to get your brain working on a new manuscript.&lt;/p&gt;
+&lt;p&gt;Importantly, the jigsaw method is fractal. That is, it scales to different levels of writing, from the introduction to the concluding paragraph of the introduction; wherever it is, start where you feel inspired.&lt;/p&gt;
+&lt;h2 id=&#34;what-about-continuity-and-flow&#34;&gt;What about continuity and flow?&lt;/h2&gt;
+&lt;p&gt;Incorporating the jigsaw puzzle method into your writing process can prevent writer’s block that stems from restrictive approaches to drafting a manuscript. But can it affect the overall flow of the manuscript?&lt;/p&gt;
+&lt;p&gt;It’s possible that starting at different places in the manuscript at different times could make the flow disjointed. But that can also happen even if you write from start to finish because you may choose to change the order or logic during the revision process.&lt;/p&gt;
+&lt;p&gt;Furthermore, it’s often easier to revise and rework the words that you have on the page than to get the words down in the first place. My suggestion is to get the words first and focus on the flow later.&lt;/p&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lithub.com/7-methods-for-writing-your-first-draft/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;7 Methods for Writing Your First Draft&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;The &lt;a href=&#34;https://alliancescc.github.io/post/draft_methods_intro/&#34;&gt;introduction and full list&lt;/a&gt; of methods for writing the first manuscript draft.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How to Get Scientific Writing Editing &amp; Consulting Paid For</title>
@@ -1010,15 +1988,15 @@
 &lt;p&gt;All costs charged to NSF awards meet the requirements of the cost principles contained in 2 CFR (S) 200, Subpart E.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.ecfr.gov/current/title-2/subtitle-A/chapter-II/part-200/subpart-E/subject-group-ECFRed1f39f9b3d4e72/section-200.459&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;200.459 Professional service costs&lt;/strong&gt;&lt;/a&gt; - See NIH Awards: General Cost Considerations (above).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/bfa/dia/policy/fedrtc/irtc/irtc_1021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Special Conditions apply to International Research Terms and Conditions:&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;&lt;strong&gt;Costs for professional and consultant services, including those who are members of a particular profession or possess a special skill and who are not officers or employees of the performing organization, are allowable&lt;/strong&gt; when reasonable in relation to the services rendered and when not contingent upon recovery of costs from NSF. If not included in the grant budget, anticipated services must be justified and information furnished on each individual&amp;rsquo;s expertise, primary organizational affiliation, normal daily compensation rate, and number of days of expected service. Consultant&amp;rsquo;s travel costs, including subsistence, may be included. If requested, the grantee must be able to justify that the proposed rate of pay is reasonable.Additional information on the allowability of consultant costs is available in 2 CFR (S) 200.456.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;strong&gt;Costs for professional and consultant services, including those who are members of a particular profession or possess a special skill and who are not officers or employees of the performing organization, are allowable&lt;/strong&gt; when reasonable in relation to the services rendered and when not contingent upon recovery of costs from NSF. If not included in the grant budget, anticipated services must be justified and information furnished on each individual&amp;rsquo;s expertise, primary organizational affiliation, normal daily compensation rate, and number of days of expected service. Consultant&amp;rsquo;s travel costs, including subsistence, may be included. If requested, the grantee must be able to justify that the proposed rate of pay is reasonable. Additional information on the allowability of consultant costs is available in 2 CFR (S) 200.456.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The &#39;Outline&#39; Method for Scientific Writing</title>
-      <link>https://alliancescc.github.io/post/draft-methods-outline/</link>
+      <link>https://alliancescc.github.io/post/draft_methods_outline/</link>
       <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://alliancescc.github.io/post/draft-methods-outline/</guid>
+      <guid>https://alliancescc.github.io/post/draft_methods_outline/</guid>
       <description>&lt;link rel=&#34;preload&#34; href=&#34;https://assets.flodesk.com/freightbigpro.css&#34; as=&#34;style&#34;&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://assets.flodesk.com/freightbigpro.css&#34;&gt;
 &lt;link rel=&#34;preload&#34; href=&#34;https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i&amp;display=swap&#34; as=&#34;style&#34;&gt;
@@ -2040,9 +3018,9 @@
     
     <item>
       <title>The &#39;Refinery&#39; Method for Scientific Writing</title>
-      <link>https://alliancescc.github.io/post/draft-methods-refinery/</link>
+      <link>https://alliancescc.github.io/post/draft_methods_refinery/</link>
       <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://alliancescc.github.io/post/draft-methods-refinery/</guid>
+      <guid>https://alliancescc.github.io/post/draft_methods_refinery/</guid>
       <description>&lt;p&gt;The term “refine” is defined as the improvement of a process, theory, or machine through small changes. Accordingly, the refinery method of writing is drafting an article through multiple distinct versions, each of which has been altered from the previous version.&lt;/p&gt;
 &lt;p&gt;The first step of the refinery method is to write a complete draft of a section or blog post, start to finish. Don’t stress about how it begins, ends, or what happens in between. Once it’s written, read through it and note potential major changes.&lt;/p&gt;
 &lt;p&gt;Next, open a fresh word document or get a fresh piece of paper and rewrite the entire draft. This time, incorporate the noted changes as you write. Again, read through the freshly completed draft and note any major changes that you might like to make.&lt;/p&gt;
@@ -4998,7 +5976,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;The goal of this series is to provide academic writers, like yourself, with tools to personalize and improve the writing process.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;I encourage you to experiment with them, find what works for you, and then tell me about it. What worked? What didn’t work? Why not? Perhaps your experience will make it into a future post. ;)&lt;/p&gt;
+&lt;p&gt;I encourage you to experiment with them, find what works for you, and then tell me about it (find me on &lt;a href=&#34;https://www.linkedin.com/in/adahagan/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; or &lt;a href=&#34;https://bsky.app/profile/dradawrites.bsky.social&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bluesky&lt;/a&gt;). What worked? What didn’t work? Why not? Perhaps your experience will make it into a future post. ;)&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Drafting Techniques and Methods:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -5012,30 +5990,38 @@
 &lt;p&gt;&lt;a href=&#34;https://alliancescc.github.io/post/draft_methods_freewrite/&#34;&gt;The Freewrite&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;The Outline&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alliancescc.github.io/post/draft_methods_outline/&#34;&gt;The Outline&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;Refinery&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alliancescc.github.io/post/draft_methods_refinery/&#34;&gt;Refinery&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;The Jigsaw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alliancescc.github.io/post/draft_methods_jigsaw/&#34;&gt;The Jigsaw&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;The Spurt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Spurt&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;The Incubation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alliancescc.github.io/post/draft_methods_incubation/&#34;&gt;The Incubation&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;Sessional&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sessional&lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;The Set Up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alliancescc.github.io/post/draft_methods_setup/&#34;&gt;The Set Up&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;&#34;&gt;Tips and Tricks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tips and Tricks&lt;sup id=&#34;fnref2:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;These posts are works in progress.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref2:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     
