@@ -5,12 +5,20 @@
     <link>https://alliancescc.github.io/</link>
       <atom:link href="https://alliancescc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alliance SciComm &amp; Consulting, LLC</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2024 09:01:57 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>Alliance SciComm &amp; Consulting, LLC</title>
       <link>https://alliancescc.github.io/</link>
     </image>
+    
+    <item>
+      <title>World on the Move: 250,000 Years of Human Migration</title>
+      <link>https://alliancescc.github.io/project/human-migration-liebow/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/human-migration-liebow/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The &#39;Jigsaw&#39; Method for Scientific Writing</title>

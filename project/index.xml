@@ -5,12 +5,20 @@
     <link>https://alliancescc.github.io/project/</link>
       <atom:link href="https://alliancescc.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Writing &amp; Project Portfolio</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>Writing &amp; Project Portfolio</title>
       <link>https://alliancescc.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>World on the Move: 250,000 Years of Human Migration</title>
+      <link>https://alliancescc.github.io/project/human-migration-liebow/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/human-migration-liebow/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Periparturient Diseases of Cattle</title>
