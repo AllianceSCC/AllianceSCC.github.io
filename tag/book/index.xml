@@ -5,7 +5,7 @@
     <link>https://alliancescc.github.io/tag/book/</link>
       <atom:link href="https://alliancescc.github.io/tag/book/index.xml" rel="self" type="application/rss+xml" />
     <description>Book</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 11:33:27 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alliancescc.github.io/media/icon_hue17794344b916e1e6682be2fdb405ace_12325_512x512_fill_lanczos_center_3.png</url>
       <title>Book</title>
@@ -13,25 +13,9 @@
     </image>
     
     <item>
-      <title>Kuby Immunology</title>
-      <link>https://alliancescc.github.io/project/kuby-immunology-macmillan/</link>
-      <pubDate>Mon, 03 Feb 2025 11:33:27 -0500</pubDate>
-      <guid>https://alliancescc.github.io/project/kuby-immunology-macmillan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Addiction Treatment: A Strengths Perspective</title>
-      <link>https://alliancescc.github.io/project/addiction-treatment-vanwormer/</link>
-      <pubDate>Mon, 03 Feb 2025 11:32:34 -0500</pubDate>
-      <guid>https://alliancescc.github.io/project/addiction-treatment-vanwormer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Periparturient Diseases of Cattle</title>
       <link>https://alliancescc.github.io/project/cattle-diseases-rana/</link>
-      <pubDate>Mon, 03 Feb 2025 11:32:14 -0500</pubDate>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://alliancescc.github.io/project/cattle-diseases-rana/</guid>
       <description></description>
     </item>
@@ -39,31 +23,127 @@
     <item>
       <title>Principles and Practices of Canine and Feline Clinical Parasitic Diseases</title>
       <link>https://alliancescc.github.io/project/parasitic-diseases-rana/</link>
-      <pubDate>Mon, 03 Feb 2025 11:31:40 -0500</pubDate>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://alliancescc.github.io/project/parasitic-diseases-rana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Living Physical Geography Digital Update</title>
+      <link>https://alliancescc.github.io/project/living-physical-geography-gervais/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/living-physical-geography-gervais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroscale and Microscale Organic Experiments</title>
+      <link>https://alliancescc.github.io/project/organic-experiments-williamson/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/organic-experiments-williamson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group III-Nitride Semiconductor Optoelectronics</title>
+      <link>https://alliancescc.github.io/project/semiconductor-optoelectrics-praharaj/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/semiconductor-optoelectrics-praharaj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addiction Treatment: A Strengths Perspective</title>
+      <link>https://alliancescc.github.io/project/addiction-treatment-vanwormer/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/addiction-treatment-vanwormer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemistry &amp; Chemical Reactivity</title>
+      <link>https://alliancescc.github.io/project/chemical-reactivity-kotz/</link>
+      <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/chemical-reactivity-kotz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Art of Problem Solving in Organic Chemistry</title>
+      <link>https://alliancescc.github.io/project/problem-solving-alonso/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/problem-solving-alonso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two‐Dimensional (2D) NMR Methods</title>
+      <link>https://alliancescc.github.io/project/2d-nmr-methods-ivanov/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/2d-nmr-methods-ivanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biochemistry</title>
+      <link>https://alliancescc.github.io/project/biochemistry-garrett/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/biochemistry-garrett/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevention and Management of Cardiovascular and Metabolic Disease: Diet, Physical Activity and Healthy Aging</title>
       <link>https://alliancescc.github.io/project/cardiovascular-kokkinos/</link>
-      <pubDate>Mon, 03 Feb 2025 11:31:16 -0500</pubDate>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://alliancescc.github.io/project/cardiovascular-kokkinos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Chemical Engineering</title>
+      <link>https://alliancescc.github.io/project/intro-chem-engineering-land/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/intro-chem-engineering-land/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kuby Immunology with Covid-19 &amp; Digital Update</title>
+      <link>https://alliancescc.github.io/project/kuby-immunology-macmillan/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/kuby-immunology-macmillan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence in Digital Holographic Imaging: Technical Basis and Biomedical Applications</title>
+      <link>https://alliancescc.github.io/project/digital-holographic-imaging-moon/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/digital-holographic-imaging-moon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unravelling Long COVID</title>
       <link>https://alliancescc.github.io/project/long-covid-goldenberg/</link>
-      <pubDate>Mon, 03 Feb 2025 11:30:51 -0500</pubDate>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://alliancescc.github.io/project/long-covid-goldenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applied Smart Health Care Informatics: A Computational Intelligence Perspective</title>
+      <link>https://alliancescc.github.io/project/health-care-informatics-de/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://alliancescc.github.io/project/health-care-informatics-de/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuity Model Generation: Integrating Wealth, Strategy, Talent, and Governance Plans</title>
       <link>https://alliancescc.github.io/project/continuity-model-craig/</link>
-      <pubDate>Mon, 03 Feb 2025 11:30:12 -0500</pubDate>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://alliancescc.github.io/project/continuity-model-craig/</guid>
       <description></description>
     </item>
